@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "query": "next js ",
+    "num_results_requested": 10,
+    "num_results_found": 10,
+    "search_type": "web",
+    "language": "en",
+    "country": "us",
+    "timestamp": "2025-01-19 01:06:41"
+  },
+  "search_information": {
+    "total_results": "1050000000",
+    "search_time": 0.423162,
+    "formatted_search_time": "0.42"
+  },
+  "results": [
+    {
+      "title": "Next.js by Vercel - The React Framework",
+      "link": "https://nextjs.org/",
+      "snippet": "Built on a foundation of fast, production-grade tooling ... React The library for web and native user interfaces. Next.js is built on the latest React features, ...",
+      "html_snippet": "Built on a foundation of fast, production-grade tooling ... React The library for web and native user interfaces. <b>Next</b>.<b>js</b> is built on the latest React features,&nbsp;...",
+      "cached_page_link": "",
+      "language": "",
+      "file_format": "",
+      "mime_type": "",
+      "display_link": "nextjs.org",
+      "site_links": {},
+      "page_map": {}
+    },
+    {
+      "title": "vercel/next.js: The React Framework - GitHub",
+      "link": "https://github.com/vercel/next.js",
+      "snippet": "Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for ...",
+      "html_snippet": "<b>Next</b>.<b>js</b> enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for&nbsp;...",
+      "cached_page_link": "",
+      "language": "",
+      "file_format": "",
+      "mime_type": "",
+      "display_link": "github.com",
+      "site_links": {},
+      "page_map": {}
+    },
+    {
+      "title": "Introduction | Next.js",
+      "link": "https://nextjs.org/docs",
+      "snippet": "What is Next.js? Next.js is a React framework for building full-stack web applications. You use React Components to build user interfaces, and Next.js for ...",
+      "html_snippet": "What is <b>Next</b>.<b>js</b>? <b>Next</b>.<b>js</b> is a React framework for building full-stack web applications. You use React Components to build user interfaces, and <b>Next</b>.<b>js</b> for&nbsp;...",
+      "cached_page_link": "",
+      "language": "",
+      "file_format": "",
+      "mime_type": "",
+      "display_link": "nextjs.org",
+      "site_links": {},
+      "page_map": {}
+    },
+    {
+      "title": "Next.js - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Next.js",
+      "snippet": "Next.js ... Next.js is an open-source web development framework created by the private company Vercel providing React-based web applications with server-side ...",
+      "html_snippet": "<b>Next</b>.<b>js</b> ... <b>Next</b>.<b>js</b> is an open-source web development framework created by the private company Vercel providing React-based web applications with server-side&nbsp;...",
+      "cached_page_link": "",
+      "language": "",
+      "file_format": "",
+      "mime_type": "",
+      "display_link": "en.wikipedia.org",
+      "site_links": {},
+      "page_map": {}
+    },
+    {
+      "title": "Learn Next.js | Next.js by Vercel - The React Framework",
+      "link": "https://nextjs.org/learn",
+      "snippet": "Start building with Next.js. Go from beginner to expert by learning the foundations of Next.js and building a fully functional demo website that uses all the ...",
+      "html_snippet": "Start building with <b>Next</b>.<b>js</b>. Go from beginner to expert by learning the foundations of <b>Next</b>.<b>js</b> and building a fully functional demo website that uses all the&nbsp;...",
+      "cached_page_link": "",
+      "language": "",
+      "file_format": "",
+      "mime_type": "",
+      "display_link": "nextjs.org",
+      "site_links": {},
+      "page_map": {}
+    },
+    {
+      "title": "Next.js",
+      "link": "https://www.reddit.com/r/nextjs/",
+      "snippet": "Oct 25, 2016 ... r/nextjs: Next.js is a React framework for building full-stack web applications.",
+      "html_snippet": "Oct 25, 2016 <b>...</b> r/<b>nextjs</b>: <b>Next</b>.<b>js</b> is a React framework for building full-stack web applications.",
+      "cached_page_link": "",
+      "language": "",
+      "file_format": "",
+      "mime_type": "",
+      "display_link": "www.reddit.com",
+      "site_links": {},
+      "page_map": {}
+    },
+    {
+      "title": "Getting Started: Installation | Next.js",
+      "link": "https://nextjs.org/docs/app/getting-started/installation",
+      "snippet": "We recommend starting a new Next.js app using create-next-app, which sets up everything automatically for you.",
+      "html_snippet": "We recommend starting a new <b>Next</b>.<b>js</b> app using create-<b>next</b>-app, which sets up everything automatically for you.",
+      "cached_page_link": "",
+      "language": "",
+      "file_format": "",
+      "mime_type": "",
+      "display_link": "nextjs.org",
+      "site_links": {},
+      "page_map": {}
+    },
+    {
+      "title": "Next.js and GSAP 3 - GSAP - GreenSock",
+      "link": "https://gsap.com/community/forums/topic/22055-nextjs-and-gsap-3/",
+      "snippet": "Nov 25, 2019 ... We're working on tool that will hopefully be released in the next week that will make importing GSAP and its parts into your project even easier.",
+      "html_snippet": "Nov 25, 2019 <b>...</b> We&#39;re working on tool that will hopefully be released in the <b>next</b> week that will make importing GSAP and its parts into your project even easier.",
+      "cached_page_link": "",
+      "language": "",
+      "file_format": "",
+      "mime_type": "",
+      "display_link": "gsap.com",
+      "site_links": {},
+      "page_map": {}
+    },
+    {
+      "title": "Doppler and Next.js without Vercel - Need Help - Doppler Community",
+      "link": "https://community.doppler.com/t/doppler-and-next-js-without-vercel/1535",
+      "snippet": "May 22, 2024 ... We run next.js outside of vercel and I'm struggling to get the env variables to be passed through to next dev or next build I've tried ...",
+      "html_snippet": "May 22, 2024 <b>...</b> We run <b>next</b>.<b>js</b> outside of vercel and I&#39;m struggling to get the env variables to be passed through to next dev or next build I&#39;ve tried&nbsp;...",
+      "cached_page_link": "",
+      "language": "",
+      "file_format": "",
+      "mime_type": "",
+      "display_link": "community.doppler.com",
+      "site_links": {},
+      "page_map": {}
+    },
+    {
+      "title": "Can anyone tell what exactly is Next JS as the explainations ...",
+      "link": "https://www.reddit.com/r/nextjs/comments/vf1s9t/can_anyone_tell_what_exactly_is_next_js_as_the/",
+      "snippet": "Jun 18, 2022 ... Nextjs is a full stack framework, for front end it implements react code and turns it into magic with server side rendering, incremental static ...",
+      "html_snippet": "Jun 18, 2022 <b>...</b> <b>Nextjs</b> is a full stack framework, for front end it implements react code and turns it into magic with server side rendering, incremental static&nbsp;...",
+      "cached_page_link": "",
+      "language": "",
+      "file_format": "",
+      "mime_type": "",
+      "display_link": "www.reddit.com",
+      "site_links": {},
+      "page_map": {}
+    }
+  ]
+}

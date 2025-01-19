@@ -1,0 +1,689 @@
+"playstore": {
+      "metadata": {
+        "query": "next js ",
+        "num_results_requested": 10,
+        "num_results_found": 10,
+        "country": "us",
+        "language": "en",
+        "timestamp": "2025-01-19 01:07:08"
+      },
+      "apps": [
+        {
+          "app_id": "info.camposha.nextjs",
+          "title": "Next.js Offline",
+          "description": "Next.js is the React Framework for the Web and it is currently one of the most trending frameworks. Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for the fastest builds.\r\n\r\nThis app allows you to learn Next.js from start to finish offline. No registration is required. Just install it and start learning. It is free.\r\n\r\nThis app is a multi-language app. It supports the following languages as local language within the app:\r\n\r\n1. English\r\n2. German\r\n3. French\r\n4. Spanish\r\n5. Portuguese\r\n6. Italian\r\n7. Japanese\r\n8. Korean\r\n9. Chinese\r\n10. Hindi\r\n11. Arabic\r\n12. Indonesian\r\n13. Turkish\r\n14. Vietnamese\r\n15. Russian\r\n16. Polish\r\n17. Dutch\r\n18. Ukrainian\r\n19. Romanian\r\n20. Malay\r\n20. More to come...\r\n\r\n> If you want more languages please request it so that I add it within the new update.\r\n> The app supports both Left to Right and Right to Left orientation.\r\n\r\nFeatures of the app:\r\n1. Free app. No registration required. Just install and start using.\r\n2. Very beautiful and modern app. Card-based, clean design. Dark mode. Smooth Animations. Follows material design principles.\r\n3. Adaptive app. Adapts to your screen size. Supports both landscape and orientation.\r\n4. Offline app. Browse items completely offline.\r\n5. Fast app. App is designed to be highly efficient and fast. It is heavily optimized for performance and responsiveness.\r\n6. Full of features. The app has many features.\r\n7. Continuous updates. You can update the app from within itself, without leaving it.\r\n8. Enough content. Our app has thousands of content. Install it and you won't need other apps.\r\n9. Small size. The app is tiny. This is because we've written it in native languages and highly optimized it.\r\n10. Privacy friendly. This app does not collect any data from you. It works offline and is 100% safe for you.\r\n\r\nThank you and keep using our app,\r\n\r\nClement Ochieng.",
+          "developer": "Clement Ochieng",
+          "developer_email": "oclemmi@gmail.com",
+          "developer_website": "https://camposha.info",
+          "category": "Books & Reference",
+          "score": null,
+          "ratings": null,
+          "reviews_count": null,
+          "price": "Free",
+          "free": true,
+          "size": "",
+          "android_version": "",
+          "content_rating": "Everyone",
+          "released": "Feb 5, 2023",
+          "updated": 1710209266,
+          "version": "8.0",
+          "installs": "1,000+",
+          "screenshots": [
+            "https://play-lh.googleusercontent.com/GrczwzlJcNcQHRYGCIsXFeQU4BnGDqvdXFxptGV41VzHJcZHR4oU6gA_-scSjUcDoGkX",
+            "https://play-lh.googleusercontent.com/AVa0t2SbFfOt184doCGx9JxKX9BKR4nxRlGS6znDsrg1P2AObUhBPwxHg06AX1bgh1U",
+            "https://play-lh.googleusercontent.com/yy-KXgZm-bM8Qn1T0W9X8HrXLhm5b9_8e1dqztBQZc7YJNPXg4Rn4Cjgqb0myoVgJg",
+            "https://play-lh.googleusercontent.com/WLfZ0If624UTigcvaKhWy5-GZ-HqeX_haK2S4MqyXt1XGfM-I-J13zOOA5VEGeBq3EBQ",
+            "https://play-lh.googleusercontent.com/lPgketyix2vdBuiuuz2hW1CHfSdTdAghXHQlShGg2Bc214VQ1-A1-T6JWcXcI2VtTME",
+            "https://play-lh.googleusercontent.com/Y_U8v3YR2lrHEE3Te0d9zLcRocMu_aV8wsM3OvzVmVy7P3g2ojz4uAa7Zk7MtO8SFew",
+            "https://play-lh.googleusercontent.com/tNOIAfpkRwRdX1WM8kIygO6HQp2mS66JM-_hYznZoDXnGxHJphhC3kkz48-2tjWHmpw",
+            "https://play-lh.googleusercontent.com/qV0tLQXDK5WyBUEH-HRqS2xf8YKUvp-MqcW_QozlnVsOJhGDxqEpU5CaaFgsKIg7kyM",
+            "https://play-lh.googleusercontent.com/82pXsezAHKXdUw11ZybZdvJRSBlDwWAO2485tzqxUrbSX4JWQbOa182TCgeMoU27t6Y",
+            "https://play-lh.googleusercontent.com/63JtkXscUwGRnJfZsY1oqw9THcXqIXorU__0t6A0345C7eZ8PsknQCfK_s_QtifcUr0",
+            "https://play-lh.googleusercontent.com/IuLKPTGviV4akp-v_0cuTXSGI5TvzU1o1F7gFNh62mkonqUIoVfRIroeKOONFkInGA",
+            "https://play-lh.googleusercontent.com/vBHze7_EuIdebkEa6UQOp9qeBWem5MpWdRH0eboycW2zlfy9C22P9QUMkQJKCwSM2w",
+            "https://play-lh.googleusercontent.com/c0ecGzzjTCuigUm88RFhHp5Uf8kOnYRmtFJtqvmygnaSvaetBsgITfTIBMeezcux_C6k",
+            "https://play-lh.googleusercontent.com/fZ72PSVJRgDvjxTmiWHEMKHzq0g94SbpaLylTcq7QJF4T5Q-r_o45qbzPcFmEXxk_Hw",
+            "https://play-lh.googleusercontent.com/j3HNOt241XXtUCKrPM0Xn5ffQ0r7jEjo_7iOLJnhlX74WG_XVm5ncw2Aqngaj8vX3w",
+            "https://play-lh.googleusercontent.com/3yUMl4VeieQu6Nwx1T0glGQll3d9Ul1NPq3kbFvVZS_M1Ga4l1Dk5aLxAQb4adBiozs",
+            "https://play-lh.googleusercontent.com/jpGcSmPoWuz3vLitGzb7z39LCqfKHctH9cH4Xc6vA5QpzXRvLzK_LPYWP89ZCo9qcGB-",
+            "https://play-lh.googleusercontent.com/kLyuLlQdlHxTunM1GwErsCW9vqcQ22QLgi3SAvdO8XTuPGjurcKRaGdlYnmpfDbkGAQ",
+            "https://play-lh.googleusercontent.com/WfJCgX-ApgokszmQ9b-AH_I416smKn_9x8G6Ruh3GNOXgvtqz6jizkKgxaChSGJ9DN4",
+            "https://play-lh.googleusercontent.com/p4tqgwHKWuQidmAqwNa19IiOHWOtUWX61VMHxGIH03tWIW8XL4-E9v7YgqbXpJ4AcVE",
+            "https://play-lh.googleusercontent.com/Sl-tfDopeehRO9Gen8MlkVESddcj7gpHErZJ-1b5cFHo1MnYj8mY-d-RJKJ1K9WoRQ",
+            "https://play-lh.googleusercontent.com/WP9fN4PNRg7m1exzBTRin2LWqSUmXc8HDUUVYjsRxVDPOfTmzwcCFP5WiBvrtwQkGA",
+            "https://play-lh.googleusercontent.com/SuNu4g_XJ8W7Tf2Mlj3luVtrsnZ-3B4q4BxVLF2ZKo8lIFhguChecxe8u-m1az9y9g",
+            "https://play-lh.googleusercontent.com/64WRsxtvFGNGtbye1oJQsqgMnzA3-XzfgxoVRyC0UBMwdrTcq0rVD_LZ9gBvfKKndg8",
+            "https://play-lh.googleusercontent.com/uTLfHaOUp06q89V7SSGojg92yHj629f2sAU6VrLmveS7jxPkLZDJR2hIKLvLJvJl_3w",
+            "https://play-lh.googleusercontent.com/LvWxBp-SJbJSt2EDfkgDzoTXvX0bXTfHP5U5zAh3iJ9OS6LIehIqGaCdeuO4hw_s10L-",
+            "https://play-lh.googleusercontent.com/XWzhNjj-TUJzFotXirT7petA4oZFBzrbuA8h920Xi8NU1Z3PYEvSlmv-2kRDFO0AsQ0",
+            "https://play-lh.googleusercontent.com/2zKp4rDumqSO3FWKqBwQQITHSSahGDaK2Hyjdxh_6qnv8Xz9b4nv5s279jzZq4roH8g",
+            "https://play-lh.googleusercontent.com/Kl4j1096TQNyfSy7Rfh8LdsfyZh9Bw86k-n-_BormfBOPklYX-blCkg5VgV4PNctE8Q",
+            "https://play-lh.googleusercontent.com/UEiBWmqRSnZ4fPNolH9HfHMf3cmuZHXXsACeaFhH9YUazmbX3FNXedB3atu3SifyQTsq"
+          ],
+          "recent_changes": "",
+          "similar_apps": [],
+          "recent_reviews": [
+            {
+              "review_id": "b12a003f-35e8-46f3-b536-0aa1a0ee570f",
+              "username": "Goldmines Gladstone",
+              "score": 5,
+              "content": "Lovely app. Contains all the documentstions of nextjs offline and app size is very small. It has been very helpful and useful. Thanks for this app.",
+              "date": "2023-08-03 08:34:45"
+            }
+          ]
+        },
+        {
+          "app_id": "com.codepoint.learnnextjs",
+          "title": "Learn Next.js Offline, NextDev",
+          "description": "Learn Next.js , React, JavaScript, TypeScript, Bootstrap Offline and free. This app contains all the major topics of Next js with Excellent Code Examples. All the topics contain code examples so you can get a better understanding of what's going on.",
+          "developer": "CodePoint",
+          "developer_email": "shahbazchandio3691@gmail.com",
+          "developer_website": "https://codemeals.com/",
+          "category": "Education",
+          "score": 0,
+          "ratings": 0,
+          "reviews_count": 0,
+          "price": "Free",
+          "free": true,
+          "size": "",
+          "android_version": "",
+          "content_rating": "Everyone",
+          "released": "Oct 4, 2022",
+          "updated": 1678695888,
+          "version": "1.0.1",
+          "installs": "5,000+",
+          "screenshots": [
+            "https://play-lh.googleusercontent.com/aVHIsBdZZF3J9BPLHRblV_yZ8Pa7HkM3LKBJOywOyn4x-yk_EjPrUZUIhUyERecYWRU",
+            "https://play-lh.googleusercontent.com/yO8NA1a_FUK6bIFLmNOEPCpYS2KiTB9M6HKcvjqNQ8x-5Vs--pKAr8tTlObyLM2NcPP6",
+            "https://play-lh.googleusercontent.com/KIwuYcxbvCjZD41QGUHFNkLpCuPQ627Hd5BP8IlKS5cHTib61IIuU9uIakI1Qkef78o",
+            "https://play-lh.googleusercontent.com/phWXc1WQB3MctQafmTjpvT75iLJyTeLXgkDsya15bYYvHwq5LIhylmyqUSrxtCvsKg",
+            "https://play-lh.googleusercontent.com/oXHn50Xof5o64ezp5L5Lab9rh3oKYtyyIyIxUOwNRRX8cM0AJYf4qq_Y7sjhwpdaQYE",
+            "https://play-lh.googleusercontent.com/LwE7JfFcukA8XWKnvCIis6g3-7zebfmC844fgKZTjmgebWn4Ap2YdE6AgEaES0C6RU58"
+          ],
+          "recent_changes": "",
+          "similar_apps": [],
+          "recent_reviews": [
+            {
+              "review_id": "7e2d94a2-9cb9-4854-b696-19e2b8e2a0ad",
+              "username": "Olebogeng Bogopane",
+              "score": 3,
+              "content": "hehgr f O see h h",
+              "date": "2024-09-05 03:39:13"
+            },
+            {
+              "review_id": "ceb98616-bfc9-4889-8aab-9e9433607df1",
+              "username": "Peter Lemreng",
+              "score": 4,
+              "content": "very nice app I appreciate so much.",
+              "date": "2024-04-10 02:52:13"
+            },
+            {
+              "review_id": "34dcce4e-91f4-4466-8293-60ac79425f54",
+              "username": "Freelancing Help BD",
+              "score": 5,
+              "content": "nice and organized app👌",
+              "date": "2024-01-22 16:58:13"
+            },
+            {
+              "review_id": "4df0aa2f-999b-4308-b15c-fb85d1b67bb8",
+              "username": "Naufal Nasrullah",
+              "score": 5,
+              "content": "What is the version? App router? Pages router?",
+              "date": "2023-07-23 17:03:57"
+            },
+            {
+              "review_id": "48fafe5a-504e-4b15-a4e4-fa67f82be111",
+              "username": "emma wantono",
+              "score": 5,
+              "content": "Great app to learn next js code",
+              "date": "2023-04-21 17:45:35"
+            }
+          ]
+        },
+        {
+          "app_id": "com.codepoint.learnnextjspro",
+          "title": "Learn Next.js Offline [PRO]",
+          "description": "Learn Next.js and React for building web apps without compromising performance, user experience, and developer happiness. Develop scalable web apps with Next.js. Next.js is a scalable and high-performance React.js framework for modern web development and provides a large set of features, such as hybrid rendering, route prefetching, automatic image optimization, and internationalization, out of the box. If you are looking to create a blog, an e-commerce website, or a simple website, this app will teach you how you can use the multipurpose Next.js framework to create an impressive user experience.\r\n\r\nFirst you will learn the basics of Next.js, the app demonstrates how the framework can help you reach your development goals. You'll realize how versatile Next.js is as you build real-world applications with step-by-step explanations. This Learn React and Next.js app will guide you in choosing the right rendering methodology for your website, securing it, and deploying it to different providers, all while focusing on performance and developer happiness. You will also learn React + JavaScript + ES6 + TypeScript + Bootstrap + HTML + CSS and much much more. \r\n\r\nThis Learn Next.js & React app is for web developers who want to improve their React skills by building scalable and maintainable full-stack applications using the modern Next.js web framework. This learn next.js app is designed for complete beginners and No previous coding knowledge is required.",
+          "developer": "CodePoint",
+          "developer_email": "shahbazchandio3691@gmail.com",
+          "developer_website": "https://codemeals.com/",
+          "category": "Education",
+          "score": null,
+          "ratings": null,
+          "reviews_count": null,
+          "price": "0.99 USD",
+          "free": false,
+          "size": "",
+          "android_version": "",
+          "content_rating": "Everyone",
+          "released": "Sep 30, 2022",
+          "updated": 1678695392,
+          "version": "1.0.1",
+          "installs": "100+",
+          "screenshots": [
+            "https://play-lh.googleusercontent.com/7diKnldLJZoS_iJbgOnypDRHI9PNWy2VIKaIM-BvPPDmgtKiBr6g96neJQkA-N_yrA",
+            "https://play-lh.googleusercontent.com/lcBo7F3r-BYvsCEZJc-GKfwrS-SqeP1AdJ8g5OlSGIMhOiV9rBa0u8JeX9hFzBFxtw",
+            "https://play-lh.googleusercontent.com/xZz8qL9mcyL2mKuwgu3cHhdDoe3r0hrkSw0Y8jO07lNef4LlW2SbBRT3Lw74du-5vDnz",
+            "https://play-lh.googleusercontent.com/GM_5sGxNOxhCD1uumVuegeuzeuM8y0_XZQIM5ZUoT8dVOoQ8Ub6aep0zTvAcqyzSdBg",
+            "https://play-lh.googleusercontent.com/2G4QGwMkiCMGR2jOhnjHSbx-6XomATf69XRXNqo-Rmk-92mbRLO3-wejQiVKuIr0F2Q",
+            "https://play-lh.googleusercontent.com/y5uvf5okdycsid_jYWWdBQCtoe-yIBxI37VpQnifz4JmgS1zs90BL3aAOOBZRg-Vkw",
+            "https://play-lh.googleusercontent.com/UnFODpEE_VmR8LmDRHB9mPCFDMrdF835I9H5ZDTdlAIGob_b2nhntKyrDbWFTyXW6LA",
+            "https://play-lh.googleusercontent.com/lFtvFLbSRk9AulZr-gMeiAxidsP8SQH0fg6mSspCT_2ViqUfqFzVoml-GqXCc3ISv_I"
+          ],
+          "recent_changes": "",
+          "similar_apps": [],
+          "recent_reviews": [
+            {
+              "review_id": "0a80e5af-c603-4feb-96f8-1c9e54fa3c31",
+              "username": "Gabriel Amadeus",
+              "score": 3,
+              "content": "The lesson here is still stuck in Next.js 13 and is outdated, the new version of Next.js is already 14.",
+              "date": "2024-08-30 21:37:33"
+            },
+            {
+              "review_id": "75f23b94-5095-4ee0-8938-b871d17da2ad",
+              "username": "Rajesh KC",
+              "score": 3,
+              "content": "It is very well sectioned, progressive app for frontend development. But, it has major setback at Next Js Basic section 2 about rendering. Also, Typescript content misrendering as per its section. I have already asked them about this via email, once it gets resolved, I will definitely rate it to 5 star. I love this app and I have updated to Pro, hope they will address it very soon 👍️👍️",
+              "date": "2023-02-24 14:24:59"
+            }
+          ]
+        },
+        {
+          "app_id": "in.developerswiki.nextjsfree",
+          "title": "Next JS Interview Question",
+          "description": "Master technical interviews with confidence - the ultimate interview preparation app for freshers and experienced professionals.\r\n\r\nDescription:\r\n\r\nPreparing for a technical interview? Look no further! Next JS is here to help you excel in your technical interviews. Whether you're a fresher just starting your career or an experienced professional looking to level up, our app provides a comprehensive collection of interview questions and answers to enhance your preparation and boost your chances of success.\r\n\r\nFeatures:\r\n\r\nExtensive Question Bank: Access a vast collection of carefully curated interview questions covering a wide range of technical domains such as programming, data structures, algorithms, system design, databases, and more. Stay ahead of the competition by familiarizing yourself with the most commonly asked questions in the industry.\r\n\r\nNext JS Interview Questions: For those specifically interested in Next JS,Deepen your knowledge and boost your confidence in Next JS interview.\r\n\r\nDetailed Answers and Explanations: Get comprehensive answers to each interview question, along with detailed explanations and examples. Understand the underlying concepts and gain valuable insights into solving problems effectively.\r\n\r\nUser-Friendly Interface: Enjoy a seamless and intuitive user experience with our app's clean and easy-to-navigate interface. Focus on learning without any distractions.\r\n\r\nPrepare for success and stand out from the crowd! Download Next JS now and take a step closer to landing your dream job through stellar performance in technical interviews.\r\n\r\nAlso Available on Developer's wiki \r\n\r\n- Android Interview Question\r\n- Angular JS Interview Question\r\n- Azure Interview Question\r\n- Next JS Interview Question\r\n- Block Chain Interview Question\r\n- Banking Interview Question\r\n- C Interview Question\r\n- Call Center Interview Question\r\n- Cloud Computing Interview Question\r\n- Computer Networks Interview Question\r\n- C++ Interview Question\r\n- C# Interview Question\r\n- CSS Interview Question\r\n- Data Science Interview Question\r\n- Database Interview Question\r\n- DSA Interview Question\r\n- ES6 Interview Question\r\n- Full Stack Interview Question\r\n- Google Cloud Interview Question\r\n- GO Interview Question\r\n- Hibernate Interview Question\r\n- HR Interview Question\r\n- HTML Interview Question\r\n- Java Interview Question\r\n- JavaScript Interview Question\r\n- Kotlin Interview Question\r\n- Microservices Interview Question\r\n- Machine Learning Interview Question\r\n- MS Office Interview Question\r\n- Operating System Interview Question\r\n- PERL Interview Question\r\n- PHP Interview Question\r\n- Python Interview Question\r\n- Quality Assurance Interview Question\r\n- React Interview Question\r\n- Redis Interview Question\r\n- Ruby Interview Question\r\n- Salesforce Interview Question\r\n- Software Development Life Cycle (SDLC) Interview Question\r\n- Selenium Interview Question\r\n- Software Testing Interview Question\r\n- Spring Interview Question\r\n- SQL Interview Question\r\n- Technical Support Interview Question\r\n\r\n\r\n- Introducing the search feature to easily find specific interview questions.\r\n- Share questions and answers via popular messaging apps and email.\r\n- Access other applications with the new navigation bar.\r\n\r\nThank you for your continued support!\r\n-The Developerswiki Team",
+          "developer": "Developer's Wiki",
+          "developer_email": "ckdevelopers21@gmail.com",
+          "developer_website": "https://developerswiki.in/app-ads.txt",
+          "category": "Education",
+          "score": null,
+          "ratings": null,
+          "reviews_count": null,
+          "price": "Free",
+          "free": true,
+          "size": "",
+          "android_version": "",
+          "content_rating": "Everyone",
+          "released": "Aug 17, 2023",
+          "updated": 1725088534,
+          "version": "1.0.3",
+          "installs": "10+",
+          "screenshots": [
+            "https://play-lh.googleusercontent.com/2yY1ruccIpjH-Ws86PO3Ilyt_ikFMaThEjg608ews49HeblNZk9opCkFCRA_vKzJHg",
+            "https://play-lh.googleusercontent.com/6SBkdhm3uky1mpJjC06XqQXagYncuhPBF28EZJqxBs8kCQ2kKXZQVtrZOgG3svagww",
+            "https://play-lh.googleusercontent.com/PIqbHgRt6WxFEFlZnUTu_DflVNLjptWTCzNIGwMas0FP-D6IuXstd8bpPMq41Dk9kpw",
+            "https://play-lh.googleusercontent.com/N9oO0Cngzx2W2ql0ZnA8PmYrTzU5JFNJEx9gYvAV0fB8js-Kgn3yTSxL9rC2uw_dEw",
+            "https://play-lh.googleusercontent.com/nQxepfza7WZf5OxlqKiO3krvq-hNIwd7zmmYUVLJhgIoK3aSg7N5ny7SF4yDR7BxIFA_",
+            "https://play-lh.googleusercontent.com/qyE5ebxtIGXINmUX29CANiXtxOCeX-Q_pkgBHn_I2hY-YMTMV3HvxP56yqyH-ScVCRQ",
+            "https://play-lh.googleusercontent.com/0kRV-hET7WzFsSZBn_rQHuhHW5Ah4lYHSjnP6Jn-gTqbMqExsezx0LQkbyhYNr53pQ",
+            "https://play-lh.googleusercontent.com/uuKOFtpgWnQFsSfhBfn7BAG9npqyXjy-ANuo1gPkHV9fCaVvNqv-LW4bqnj8tRMz65Wz"
+          ],
+          "recent_changes": "",
+          "similar_apps": [],
+          "recent_reviews": []
+        },
+        {
+          "app_id": "club.onepercent.javascript_tutorial",
+          "title": "JS Tutorial - Simplified",
+          "description": "Whether you want to learn JavaScript Programming as a Hobby, for School/College, or want to build a Career in the field, this Tutorial is for you. The tutorial covers everything from the Basics of Programming to Advanced Concepts like Data Structures. It also comes with a sleek and interactive graphical user interface.\r\n\r\nJavaScript Tutorial is\r\n- Free with no hidden charges!\r\n- Ad-Free!\r\n- Available for all platforms!\r\n\r\nFeatures:\r\n1. Detailed Tutorial\r\n- A to Z of JavaScript Programming has been explained in detail.\r\n\r\n2. Interview Questions\r\n- Questions asked in Programming Interviews are given with answers.\r\n\r\n3. Quiz\r\n- A quiz with different difficulty levels to test your understanding.\r\n\r\n4. Demo Programs\r\n- Demo Programs with examples to help you visualize what you've learned.\r\n\r\n5. Syntax\r\n- Syntax of all the programs is presented in an ordered manner.\r\n\r\n\r\nThis app is brought to you by the company OnePercent, based in Bangalore, India.\r\n\r\nWebsite: www.OnePercent.club\r\n\r\nSocial Media\r\nLinkedIn: Https://Www.Linkedin.Com/Company/Onepercent-Club/\r\nFacebook: Https://Www.Facebook.Com/Fb.Onepercent.Club/\r\nInstagram: Https://Www.Instagram.Com/_onepercent.Club/\r\nTwitter : Https://Twitter.Com/OnePercent_club",
+          "developer": "OnePercent",
+          "developer_email": "akash@onepercent.club",
+          "developer_website": "https://www.onepercent.club",
+          "category": "Education",
+          "score": 0,
+          "ratings": 0,
+          "reviews_count": 0,
+          "price": "Free",
+          "free": true,
+          "size": "",
+          "android_version": "",
+          "content_rating": "Everyone",
+          "released": "Nov 8, 2020",
+          "updated": 1695146503,
+          "version": "1.1.11",
+          "installs": "5,000+",
+          "screenshots": [
+            "https://play-lh.googleusercontent.com/GKJka44RKsXAFSXNT42AFyqZVQSEtM_UeDqpgpTaYXczEyuUVBvX5sgC6cIlsR43rw",
+            "https://play-lh.googleusercontent.com/uBVHYnMDBfekSS4fui-5rDYlObgL_z4v6lzmEWqRW23ShlCmcX9JsaMODdMomtPi7Nr2",
+            "https://play-lh.googleusercontent.com/dBxGduj4RT-VHiyeFQurw2FqQK7YwjXa7_vT0NbWcmUwGtiaZCdejXFZikI55mH4Vyc",
+            "https://play-lh.googleusercontent.com/yo5nanMzwt4ZTyFHf0X6nOjkWtGF4iQw2JC28Pnvay8KFJTOe1Dd6mVougP3mofpNDD8",
+            "https://play-lh.googleusercontent.com/asTcyXtQs_Ce-5J3w7MfFJt_vYyevWac-2jXDOlYDvQaN4qMVgKmjWS25IT08VJQobA",
+            "https://play-lh.googleusercontent.com/byJZjT43M0KOP33gN4xs740VbSlobjK0bqhjdDSZ8741xJTGoK5jIeewMKaopHBAxi0",
+            "https://play-lh.googleusercontent.com/zJEl4Q2bJt-SusE1qjxMsGuXspGCueztXLdpcfiU3IOH2nSLhYKybZpVvncS0K2Xq_Q",
+            "https://play-lh.googleusercontent.com/tfRAw4n_IfOCqThwfLQ7q1Y-LqMc2D5kgpw2bWz0dl3iS94UC6a-axaggv_pW614gWo",
+            "https://play-lh.googleusercontent.com/1JxdlsrXP3KlQLI0RyTIfYc1wFWdrYZRZZd9V9GG14y59DzJZBDv6T8XDXWxXVCHTA",
+            "https://play-lh.googleusercontent.com/hqTAASsBI5zkYiAjcVWxiqSyTufUkhqjqeVXEC7vsofhYBLBPqp0wnRYnkn0532A9Yd0",
+            "https://play-lh.googleusercontent.com/6wANQ4669ARMz1KfkVlfQ6PYAaKMHZKSg5r_gcg5eUZbsgr75UdN2zy5igE8Ud0kyNlm",
+            "https://play-lh.googleusercontent.com/vT6naV6ih3FZyb9nUp_dQwTaIZTibf06nk_DYOWFAHWzaJd1xHkblS3CQ4IREeYyLi3U",
+            "https://play-lh.googleusercontent.com/ek8Quj6D9f9jkryynTgBWnGzxhWVFMW6SGuB47Pvlqn2IVwexLwyboqf2wz7rkh-eQ",
+            "https://play-lh.googleusercontent.com/F6xrjPyWb_IP8U4Moc7LAnG8BuO3K_Al3r2ZqZQFJurIpt_rpoGoWaWSd0sBVKSJcQ",
+            "https://play-lh.googleusercontent.com/OZbXvBtiIMmRXHobs-JtTX8GIY-9f8cjBhDbrRDTo1vN2AGjg4KEBFc4Dcu2Kel65g",
+            "https://play-lh.googleusercontent.com/sfvUnPK6FCNvuI5iBH1PTSaJahXhv8meKuZSbSJSGcmc-Cc9kLEz0OY4mcMiBSwQVg",
+            "https://play-lh.googleusercontent.com/rAgu8svnM4sXSpe42Mf1k5YLFG0_6AuhcnTQbqNXwJUHBpYv76YgFW5B7sxk1QY6GXE",
+            "https://play-lh.googleusercontent.com/gKUhMV_4bcX1K7vq1VBJgAc6U54pXreq_TinkbuiQQuYPKsV5CU2prYD8Y--LoJi-rI",
+            "https://play-lh.googleusercontent.com/JBIxNmulMeGp3QWQMnWxwczy-hJVQAWVPKKQcBJ4pOpogWPIDHlpGVszghLgLFkElf61",
+            "https://play-lh.googleusercontent.com/UJB-Whgo06GP4TNknc_keLwenJbU8CCTDnRRQMALAHvIzlv-nogUAOG6t4MdTxShfKWw",
+            "https://play-lh.googleusercontent.com/W1Xtbee7EkBO9Zxg_lDUUswozPrt1q53yiuubG2TkbBD4ALq0Cw31LrQzLTDhe5bi1NG",
+            "https://play-lh.googleusercontent.com/yeleU_ET2e4nEI0YWlX8u3xOf-M2EZdjsnfBzgjmwKPx0Mim_10aOrqppdnczEFd9-1M",
+            "https://play-lh.googleusercontent.com/w-cRlkTC_KRHobZiqlb3exSkO387k3gtmYB5HACNDi6G7Qs4twIruEPvZyE7giWm56s",
+            "https://play-lh.googleusercontent.com/BpGNtdLov_9JSqF8vF3Ve6jWL3IXziXyEfqvpCq32iLw-s9M4U6TKxK5P6DBu9o6oA"
+          ],
+          "recent_changes": "",
+          "similar_apps": [],
+          "recent_reviews": [
+            {
+              "review_id": "b344d807-99c8-44b3-869f-f7d0e544490b",
+              "username": "Unsto Able",
+              "score": 1,
+              "content": "The app isn't working",
+              "date": "2024-08-26 14:34:52"
+            },
+            {
+              "review_id": "3881cfdc-6b86-491b-8ba5-e0857baea658",
+              "username": "Negative Hue",
+              "score": 4,
+              "content": "The app is very helpful and organize. I gave this 4 stars only because the quizzes is cut or in incomplete sentence and sometimes the app crashes. But so far the app is very helpful!!",
+              "date": "2024-08-04 19:10:37"
+            },
+            {
+              "review_id": "b0d6ccad-ab96-42a0-a2b0-cbc4c80b7529",
+              "username": "Ahmad Ibrahim",
+              "score": 1,
+              "content": "I hate this app",
+              "date": "2024-03-05 04:29:48"
+            },
+            {
+              "review_id": "7716c946-2e86-495e-a83b-daa0f1098799",
+              "username": "Shushil Vishwakarma",
+              "score": 5,
+              "content": "Good",
+              "date": "2024-01-31 21:43:00"
+            },
+            {
+              "review_id": "d4c07e48-9894-4373-a15f-49ee004d4a7a",
+              "username": "Vinsmoke Sanji",
+              "score": 5,
+              "content": "Awesome like the last ones.. logical operators lesson is kinda blank. Same thing for Ruby. Except from that it is awesome!",
+              "date": "2023-12-09 15:59:37"
+            }
+          ]
+        },
+        {
+          "app_id": "js.javascript.web.coding.programming.learn.development",
+          "title": "Learn Javascript",
+          "description": "Build your Javascript skills on the go with this amazing free app to learn JavaScript Programming. Become a JavaScript programming expert by learning the JavaScript coding language.\r\n\r\n<b>Learn Javascript</b> is a must have app for all coding learners or computer science students to learn JavaScript programming language whenever they want and wherever they want. Whether you’re preparing for a JavaScript interview or any exam that requires JavaScript programming knowledge, you can find amazing content on this programming learning app.\r\n\r\nThis amazing JavaScript Programming Learning app has amazing content such as JavaScript Programming Tutorials, JavaScript Programming Lessons, Programs, Questions & Answers and all that you need to either learn JavaScript programming basics or to become a JavaScript programming expert.\r\n\r\nWith an amazing collection of JavaScript Programs (code examples) with comments, multiple questions and answers, all your programming learning needs are bundled in a single code learning app.\r\n\r\n\r\n**************************\r\nAPP FEATURES\r\n**************************\r\n“Learn JavaScript” app makes your code learning fun whether you’re looking to learn basics or become an expert programmer. Here are the features that would make us your single choice to learn JavaScript programming language -\r\n\r\n💻Best collection of JavaScript Tutorials\r\n💻100+ JavaScript Programs with proper comments for better understanding\r\n💻Learn JavaScript Basics for beginners\r\n💻Questions & Answers in different categories\r\n💻Important Exam Questions\r\n💻Share the Tutorials & Programs with other friends\r\n💻Tutorials for beginner programmers or those who’re looking to learn advanced programming\r\n\r\n“Learn JavaScript” app has a really simple and intuitive user interface. It is the best app to let you learn the JavaScript programming language for free. So, what are you waiting for? Download the app now to become a JavaScript Programming Pro.\r\n\r\nIf you have any feedback for us, please write us an email and we will be happy to help you out. If you have liked any feature of this app, feel free to rate us on play store and share with other friends.",
+          "developer": "Coding and Programming",
+          "developer_email": "hello@prghub.com",
+          "developer_website": "https://programminghub.io",
+          "category": "Education",
+          "score": 4.4851484,
+          "ratings": 7798,
+          "reviews_count": 207,
+          "price": "Free",
+          "free": true,
+          "size": "",
+          "android_version": "",
+          "content_rating": "Everyone",
+          "released": "Jan 23, 2020",
+          "updated": 1734186748,
+          "version": "4.2.55",
+          "installs": "500,000+",
+          "screenshots": [
+            "https://play-lh.googleusercontent.com/uAIagN2wvdUm6Sx2w_WV6zYHIhavAZVPy7j8mLNIASg9-7DeNUnc2nY5kh_UqedB1Yrz",
+            "https://play-lh.googleusercontent.com/HJnAiRMX8xCL-XftVT-fo2rMvIOZgWXOkPJA-xFtp0jedOWrWXUb2ClAG0BlW9T4Z2w",
+            "https://play-lh.googleusercontent.com/BMPVs3XwG5PCxX47eWkLrCI2ZfhgES4p6J8krrp1Iwag4IQpXruO3MhyYxU7VFKGWQ",
+            "https://play-lh.googleusercontent.com/qz2PLUTMFidVjeA3hre7L7JrwvjHDrAO9phN0hgsm5esGoip7FSUUSmSkRH8CohFKg",
+            "https://play-lh.googleusercontent.com/5IkzBYFrXyzLaZVrKTsMFg3EhR-6g1RknzM-GjCV7dezpe5QjBVNj9mhNLRvMcjCgeW9",
+            "https://play-lh.googleusercontent.com/gz-PaQAwfw6bLp8xzWa9W0u1qfwVntmbjDjzG5wj_dW0qq5gCvI8_LNSC_2S6juM9A"
+          ],
+          "recent_changes": "",
+          "similar_apps": [],
+          "recent_reviews": [
+            {
+              "review_id": "62898a3a-7c47-444d-aae6-8573b7fdd2af",
+              "username": "ivia litani",
+              "score": 5,
+              "content": "Helpfull and they're make it easy to understand",
+              "date": "2025-01-16 20:06:44"
+            },
+            {
+              "review_id": "55054bc6-66fd-4583-a2be-e334cee0e8d0",
+              "username": "technical guru",
+              "score": 5,
+              "content": "NICE 👍",
+              "date": "2025-01-16 10:30:32"
+            },
+            {
+              "review_id": "1fb46996-3271-4469-b3a9-124f19581ff9",
+              "username": "leo martin",
+              "score": 1,
+              "content": "Garbage. You never actually get to type the script it just quizzes you on it. I spent money on this thinking that's where you get to type it but no. Don't use this it's a waste of time and for me money.",
+              "date": "2025-01-16 07:49:01"
+            },
+            {
+              "review_id": "04acd957-daff-4a67-8ce7-7491c51beb00",
+              "username": "A samed Yussif",
+              "score": 5,
+              "content": "Si easy to understand programming",
+              "date": "2025-01-15 08:08:33"
+            },
+            {
+              "review_id": "fafba597-790a-4fad-9ae4-46121c21caa0",
+              "username": "Taiwo Hassan",
+              "score": 5,
+              "content": "It very easy",
+              "date": "2025-01-14 23:50:30"
+            }
+          ]
+        },
+        {
+          "app_id": "com.mia.jsrun",
+          "title": "JS Run",
+          "description": "Simple and lightweight application for Javascript coding and code execution.\r\n\r\nFeatures:\r\n - code execution/termination\r\n - syntax highlighting\r\n - line numbering\r\n - dark/light theme\r\n - save/open file\r\n - code sharing\r\n - auto-closing paired symbols\r\n - personalization\r\n - show \"modified\" file status\r\n\r\nPlease, note! Javascript modern features support depends on your mobile OS (the older Android you have - the older JS syntax is supported)",
+          "developer": "GPWC",
+          "developer_email": "jsrun.app@gmail.com",
+          "developer_website": "https://bitbucket.org/michae1/jsrun/issues",
+          "category": "Tools",
+          "score": 4.01,
+          "ratings": 2993,
+          "reviews_count": 166,
+          "price": "Free",
+          "free": true,
+          "size": "",
+          "android_version": "",
+          "content_rating": "Everyone",
+          "released": "Apr 21, 2016",
+          "updated": 1624476959,
+          "version": "1.2.2.30",
+          "installs": "500,000+",
+          "screenshots": [
+            "https://play-lh.googleusercontent.com/ARzZbRG4NAUtLH08eew_pTf4qIzihJMzWJ03qADr2RPz6F81SBrQj2e9XtgNGao_wRU",
+            "https://play-lh.googleusercontent.com/OmxgsjpKSu8NUeDFjcGoYAK1k9ftE9m0zfVCkuzMCppy0fa3HmHfl0WMpXlR7w6MgQ",
+            "https://play-lh.googleusercontent.com/JP5NbUK-yVfTTDp9l55V9vRq0GMUof-25k_pLufYFPrTfai3-f92HCdWRenyLZyIbw",
+            "https://play-lh.googleusercontent.com/MLnKdIaCwht5vjQaNZBPt4HR17XJ9GLPdWP-9mn9vTRwWydrDLyw9cBVHKrThMZj7mc",
+            "https://play-lh.googleusercontent.com/L7HjNgVm0Q62ijlprpt-ewBu6QT3eTur2ulxBGsTGLGTTJ__IvEZEqaTXX4yG0dNAw"
+          ],
+          "recent_changes": "",
+          "similar_apps": [],
+          "recent_reviews": [
+            {
+              "review_id": "ddf48857-c86a-4014-8113-4b6e840f7bc3",
+              "username": "Gera",
+              "score": 5,
+              "content": "Great for testing JavaScript snippets on the go, awesome performance and accuracy.",
+              "date": "2024-12-31 13:13:33"
+            },
+            {
+              "review_id": "b08052ee-ce24-4304-8d44-cd56d6d4fbaf",
+              "username": "Ali Writes",
+              "score": 3,
+              "content": "Add undo/redo buttons. Prompt is not available. Copy option is not fully useable. Kindly fix these bugs.",
+              "date": "2024-12-21 14:17:55"
+            },
+            {
+              "review_id": "77bd70d6-6aa2-412b-84a4-85262317a5df",
+              "username": "Noah Cooper",
+              "score": 5,
+              "content": "Just the ability to permanently dismiss the \"rate this app\" dialog box makes this a king among apps in 2024",
+              "date": "2024-12-08 16:31:53"
+            },
+            {
+              "review_id": "04113156-1dae-485a-8e65-43058ea90104",
+              "username": "Dickens Omondi",
+              "score": 5,
+              "content": "nice app ... thank you developers ...",
+              "date": "2024-12-04 14:56:50"
+            },
+            {
+              "review_id": "1d9c5427-64b6-4f2e-8211-9ac00b1493ab",
+              "username": "Luis Vera",
+              "score": 5,
+              "content": "Muy buena app, sin anuncios, ligera, rápida me gusta mucho, solo he notado que al escribir lineas muy largas la línea continua en la parte de abajo pero la numeración de la línea continua, pero no debería tener número ya que es parte de la línea de arriba, pero fuera de eso todo perfecto, gracias",
+              "date": "2024-11-26 08:44:05"
+            }
+          ]
+        },
+        {
+          "app_id": "com.codeliber.js",
+          "title": "Learn JavaScript",
+          "description": "<b>Learn JavaScript</b> with this app for <b>free</b>.\r\n\r\nLearn <b>offline</b> with 70+ JavaScript Lessons.\r\n\r\nThis <b>JavaScript tutorial</b> will teach you the basic and advanced concepts of JavaScript.\r\n\r\nIn every lesson, there are explanations, examples with the Try It Yourself functionality that help you effectively <b>learn to code JavaScript</b>.\r\n\r\n<b>Learn JavaScript - Features:</b>\r\n 1. Detailed explanations to learn JavaScript.\r\n 2. Learn JavaScript with 430+ examples.\r\n 3. Try It Yourself with every example.\r\n 4. Code Playground/Editor with syntax highlighting that allows you to open and save files from your local storage.\r\n 5. Quizzes. Challenge yourself with 325 quiz items.\r\n 6. Exercises. Challenge yourself with Exercises.\r\n 7. You can share quiz results anywhere.\r\n 8. You can share your certificate anywhere.\r\n\r\nAchieve 100% of Learning Progress to receive a Certificate of Completion.\r\n\r\nEvery lesson is followed by quizzes that improve your Learning Progress.\r\n \r\nBy the end of this course, you will be able to program a web site.\r\n\r\nWhat are you waiting for? Install now.",
+          "developer": "Codeliber",
+          "developer_email": "thecodeliber@gmail.com",
+          "developer_website": "https://codeliber.com/",
+          "category": "Education",
+          "score": 4.7,
+          "ratings": 5510,
+          "reviews_count": 85,
+          "price": "Free",
+          "free": true,
+          "size": "",
+          "android_version": "",
+          "content_rating": "Everyone",
+          "released": "May 3, 2020",
+          "updated": 1733369680,
+          "version": "2.0.8",
+          "installs": "500,000+",
+          "screenshots": [
+            "https://play-lh.googleusercontent.com/cC2v-FIZOxU9uzjjkDypDCWh4ix-XmoW2p0qy2G1bwJ9K_KW6YWKeuT08jMd-YJ-gQ",
+            "https://play-lh.googleusercontent.com/0xuaDWlk5x74hxq-NlQpkMsC18ZbCce-LkiU1BqkBGF5lMPTN37Y5gz9-xYhQUqn3Fkb",
+            "https://play-lh.googleusercontent.com/87JuNCUpLLj36oeVIUAmyU7x0UTJ18H31B4YipPpR5oVT9XBCEdWK75YeNiWV3WrBCM",
+            "https://play-lh.googleusercontent.com/y-DOIt6QuH7zHvpl8UHMhhBYDdrPUAn4qNIXlJHO7LrbwHOlV3Ri4oWhHeUsQakGEOg",
+            "https://play-lh.googleusercontent.com/p8lbuYcIOzvC9PzJeP8VaUQIgpc7EG6O6hUysV5dsDfzaVYJ8Vg7TarCbqUZXSrMfw",
+            "https://play-lh.googleusercontent.com/zj8GqiX6xR5TJ4__EnmPqlU8WoIu8_tIn-PYcg2_Fil7ef05xaZuNhJhgEnht1vkhOw-",
+            "https://play-lh.googleusercontent.com/WVQHraF68iXxp384nFuqssoBJNT0ZRChJwG8KkMGR5IVuAwafnxADvPbsINqLYxNIg",
+            "https://play-lh.googleusercontent.com/a7AJEKvT8wUb-xe57cR6T3sj-YLNFTyTl4KeGBRwLdFBBHgzCZmRWkiFlFOJnGjwiPY",
+            "https://play-lh.googleusercontent.com/Iji8m6y2GZY80DdeFjGbvGtxxF9emDRjlQZIc37LHJ0SRsfhidy6sqnQAZnIm4BrvbY",
+            "https://play-lh.googleusercontent.com/MLOGD9HC8IwMJdwl4nKaLVrmiAtC9wy-lytGDbQE18z0GPLV3rG6BWDQdM0yvIiHQuM",
+            "https://play-lh.googleusercontent.com/54HPcigJJZpa7jlpc6U4y8E1arRpsa0sy3uNOEEOIU6xBTk35DdgfK3F1behwLWMmQ",
+            "https://play-lh.googleusercontent.com/xM6K78x2j2puPageBYiBzjCKMDAY4Cai7EEcHsokl-KCpPTqq0DA32_CJe2DuOp7iVLf",
+            "https://play-lh.googleusercontent.com/dXvmdAc2Z5sqpofspwSXdA4RCtxmHXICza7NiX4vtdYdG-ZOwG0tnbG6l1Ati6PjYK4",
+            "https://play-lh.googleusercontent.com/oAG2I4AVFH5KuSBh3XOyxJTOrLqB0qS_Qul3ZmbMZAEa-IwCUn8m1QCZIhUQTYXBuQ",
+            "https://play-lh.googleusercontent.com/dBSEZbMFpXjxT3Ymu-JqbCZXnzMBEq3O6uRid6gJJE-1lDJLJyliyAv7nkAKTqjhX4Q",
+            "https://play-lh.googleusercontent.com/jU_aYxJSt-QzT5aywbfSX8I08UrhA3t_XQPIjPaxwoGuNSKaJXlcs4UbXrpzLjhHVcyR",
+            "https://play-lh.googleusercontent.com/3fRqjVRzGEmLjo6yqgSWwqWkeI8lzmKWV2SwDBW4HNBIVkY4udNZVwIK25TbuTgSfw"
+          ],
+          "recent_changes": "",
+          "similar_apps": [],
+          "recent_reviews": [
+            {
+              "review_id": "aff0aa91-4421-4e02-b70b-3af5c78a0b3b",
+              "username": "Shivam Kumar",
+              "score": 5,
+              "content": "This is a very friendly software to learn javascript. Thanks ♥️",
+              "date": "2025-01-17 20:09:34"
+            },
+            {
+              "review_id": "4672fad9-7743-4005-8439-93ffccd9160a",
+              "username": "Alvin Mats",
+              "score": 5,
+              "content": "it's the best of all I have seen",
+              "date": "2025-01-07 17:53:47"
+            },
+            {
+              "review_id": "3831129b-282a-4996-a22d-2b0a0332e9ed",
+              "username": "gamlax",
+              "score": 5,
+              "content": "great app",
+              "date": "2024-12-31 11:42:54"
+            },
+            {
+              "review_id": "d7d7808a-ae29-414f-841a-0bbf8f4879ed",
+              "username": "Subham Sah",
+              "score": 5,
+              "content": "Good",
+              "date": "2024-12-30 20:37:20"
+            },
+            {
+              "review_id": "a987856a-d1dd-443f-b4cc-a3eff4e54d20",
+              "username": "Tamimu Rashid",
+              "score": 5,
+              "content": "I like it !, though in this app i would like to see the progress tik on my lesson so it can be easy to return...",
+              "date": "2024-12-29 02:31:54"
+            }
+          ]
+        },
+        {
+          "app_id": "club.onepercent.javascript_compiler",
+          "title": "JavaScript Compiler - Run .js",
+          "description": "JavaScript Compiler is an Advanced IDE enabling you to compile JavaScript Programs on your Mobile Phone for Free. It comes with a code editor with in-built syntax highlighting capabilities.\r\n\r\nJavaScript Compiler is\r\n- Free with no hidden charges!\r\n- Ad-Free!\r\n- Available for all platforms!\r\n\r\nFeatures :\r\n\r\n1. Compile & Run\r\n- Compile & Run JavaScript Programs\r\n\r\n2. Code Editing & Syntax Highlighting\r\n- Enables you to edit code and automatically detects and highlights syntax\r\n\r\n3. Exercise Questions\r\n- Exercise questions to help you improve your knowledge\r\n\r\n4. Programs with Code\r\n- All the general DSA programs with code\r\n\r\n5. Fun Facts\r\n- Some fun facts about programming and computer science\r\n\r\n\r\nThis app is brought to you by the company OnePercent, based in Bangalore, India.\r\n\r\nWebsite: www.OnePercent.club\r\n\r\nSocial Media\r\nLinkedIn: Https://Www.Linkedin.Com/Company/Onepercent-Club/\r\nFacebook: Https://Www.Facebook.Com/Fb.Onepercent.Club/\r\nInstagram: Https://Www.Instagram.Com/_onepercent.Club/\r\nTwitter : Https://Twitter.Com/OnePercent_club",
+          "developer": "OnePercent",
+          "developer_email": "akash@onepercent.club",
+          "developer_website": "https://www.onepercent.club",
+          "category": "Education",
+          "score": 3.75,
+          "ratings": 61,
+          "reviews_count": 4,
+          "price": "Free",
+          "free": true,
+          "size": "",
+          "android_version": "",
+          "content_rating": "Everyone",
+          "released": "Dec 24, 2020",
+          "updated": 1695140239,
+          "version": "1.1.11",
+          "installs": "10,000+",
+          "screenshots": [
+            "https://play-lh.googleusercontent.com/ITqbWygbGzY-YmMsV3ZYhQj2mlXaTttYPHWKlyBUfiTbFixqLI2V_aBnm6kJk_0iINIx",
+            "https://play-lh.googleusercontent.com/Uqt36YfV4WZ8nh60tY7TyYidlvSShFLRzRxXSKkqzqIGggH40lHc425xMGadIcSsFAQ",
+            "https://play-lh.googleusercontent.com/ZmaExpnF48wvIIIdZBxxOtcyfTwRDvFH2X3unkE_u5GacE10Wm_ZRHXOUoEvPhJzlYeC",
+            "https://play-lh.googleusercontent.com/LW7SmjQO3oKLrVeD-JWpiuGj1gSffZFBekc5YDwmlH9j-npWN_XUplubiMzfzerSt6E",
+            "https://play-lh.googleusercontent.com/ab_0T9nASdRKsuEFYTOgUhjBPmyiCLqfmXpTI-n4-liFdxfZLh0vKvYcxWviBjuaNg",
+            "https://play-lh.googleusercontent.com/HMdOYmivFGYujEopjqmzGweYOu4Cjb6vmdmy13sYZN0eOefiKQwlvZb1tntzhCbuAg",
+            "https://play-lh.googleusercontent.com/u6E2WhHlXX4GeRHcQ-D9yqqm8xsT1Gzz_D4uRZufC2Wag_ig8y4A-K5aaPFiY10pFj_f",
+            "https://play-lh.googleusercontent.com/GtWMLwcG3F8bO9TbaCvqzKIgCWr4Xh0H-gQtfG6EXp7-UKc-wlGXc2TR5jXcLIiwYyGs",
+            "https://play-lh.googleusercontent.com/CJjrvRA86WzSTh2dKVdK-N9WPXHI5uvGJnccAFZlsEswUQBvmyTmpU5EcxHZwbp1N3I",
+            "https://play-lh.googleusercontent.com/9m4vrm52m5i1Hp75dCo7O1bfWzoBXFgyzO68noKsiZ-u99LvMNgJmJGzZbGi1UGH2bM",
+            "https://play-lh.googleusercontent.com/D27RvL2Uu0ZrgFM9A_j8VDuwqXNzCGnrMVMhtcnwyipHpOxxXivg0qQX_Wx9UWSFkEk",
+            "https://play-lh.googleusercontent.com/wQ7kzZp1JJ_24ROpYUnvBcoJtGKls5wvhXxDzhGLYeC4Qpqfwwc0WjU8FUf6WmxOt_L-",
+            "https://play-lh.googleusercontent.com/p4aXIhS2rTHkCsr70aCFbgbyoeU8gqDtTdm2llqLqTiiNGgUEJLziyeEINwftzxNWQ0",
+            "https://play-lh.googleusercontent.com/LWsLLmyV-v3OyWX8Ykfl3qLfeoIoO3UhFK15EcG6DGxRi-Jo9xaQULN3nGaxANkcyUw",
+            "https://play-lh.googleusercontent.com/k16zu1pItuX6GEeNSVybYfv5rQgCDNEG0aB7rfCg579V9Qn2dkk7b_ATYXGD1KqZYo4",
+            "https://play-lh.googleusercontent.com/Zx8MgnF-dPeLl29oh-vqQNTnwLMGDE-9G9nzCtDOv-FO2ovUB4rH3KOzKE0qrLQmgxsr",
+            "https://play-lh.googleusercontent.com/EYXYJYgWRETCJ6Qd2NvDEOwdS_l0a6LmAcNmbkT-znZLD15IU_5YQvu_YO8YumMxDQ",
+            "https://play-lh.googleusercontent.com/_NK210NleFqZa6iKGGs09J21PLmAdxwY_sM4ka3UV87tTYQ92R_4Rcqu78tmrhxQAA",
+            "https://play-lh.googleusercontent.com/F3RudW32PBlYYk-jzYkdVb86AEXzC84JvCfSY1OwN_mkT2D0ZCBs2JgvSwNR47UX",
+            "https://play-lh.googleusercontent.com/MswOJx9gFwmG1qLLEkq5tYgAGBMsGNpQtBTSPWfsQE1HLv8gh2aiR6hZuk6Eic1BCNc",
+            "https://play-lh.googleusercontent.com/MfOTcaVXvpZE_nO7WRQ6McBpskXmeZsqJ5zkio8QSYNY3NGxZrJEbSiCw6NB2VmWP1M"
+          ],
+          "recent_changes": "",
+          "similar_apps": [],
+          "recent_reviews": [
+            {
+              "review_id": "70edde5e-4e4b-444d-82b0-5cdb7ce1b9b3",
+              "username": "Neha Chandani",
+              "score": 5,
+              "content": "Only basics excercises but still it's a nice app for js practice.",
+              "date": "2024-10-22 11:48:05"
+            },
+            {
+              "review_id": "a9d938a5-5bb4-4440-bf8a-7fad2d997a65",
+              "username": "Ajay Sharma",
+              "score": 5,
+              "content": "Nice",
+              "date": "2024-10-07 13:54:01"
+            },
+            {
+              "review_id": "9a5990b8-a716-428a-921f-ceacd193199a",
+              "username": "Ganesh Karhale",
+              "score": 5,
+              "content": "This app is really fluid and good looking",
+              "date": "2024-09-28 14:55:29"
+            },
+            {
+              "review_id": "c924237b-866c-4d3f-8d05-1ada2610e2d5",
+              "username": "Lol",
+              "score": 1,
+              "content": "Doesnt work doesnt load. The app cant connect to the internet althought i am connected 🙄🙄",
+              "date": "2024-09-09 15:51:40"
+            },
+            {
+              "review_id": "7cf96d14-211c-4ebf-9633-23f5c7774120",
+              "username": "Mohamed Shihap al deen",
+              "score": 1,
+              "content": "😐 I can't find a debug",
+              "date": "2024-09-04 01:48:22"
+            }
+          ]
+        },
+        {
+          "app_id": "com.sololearn",
+          "title": "Sololearn: Learn to code",
+          "description": "Are you ready to enhance your coding skills and deepen your understanding of how to code? With Sololearn, you can start learning to code in Python, JavaScript, HTML, CSS, SQL, and many other programming languages right away. Whether you're just beginning your coding journey or looking to improve your programming knowledge, Sololearn offers a wide range of courses designed to help you learn coding effectively and at your own pace. \r\n\r\nWhy Choose Sololearn?\r\n\r\n- Start Learning to Code with Ease: Sololearn’s extensive library of coding courses is designed to help you learn programming at your own pace. Start coding in Python, JavaScript, HTML, CSS, SQL, and explore many other languages and technologies to build a strong foundation for your tech career. \r\n- Engage in Interactive Learning: Dive into hands-on programming practice with real-world projects, coding games, and challenges that make learning fun. From Python and JavaScript to HTML, CSS, and SQL, Sololearn offers engaging content to boost your coding and tech skills. \r\n- Experience AI-Powered Personalized Learning: Unlock personalized learning with Sololearn's AI-driven recommendations, helping you master coding, data analytics, and other in-demand skills tailored to your goals. \r\n- Practice Coding Anytime, Anywhere: Run and practice code on the go with Sololearn’s mobile code editor. Whether it's Python, JavaScript, or other programming languages, keep coding wherever you are. Key Features: \r\n- Courses in Python, JavaScript, HTML, CSS, SQL & More: Learn the most in-demand coding languages like Python, JavaScript, HTML, CSS, and SQL, alongside many other programming languages and technologies. These courses are designed to boost your coding skills and prepare you for a successful career in tech. \r\n- Career-Focused Learning Paths: Whether you aim to become a Python specialist, a full-stack developer, or excel in data analytics, Sololearn provides structured learning paths across a wide variety of career tracks to guide your coding journey. \r\n- Practice Makes Perfect: Hone your coding skills with practice exercises, coding games, and projects in Python, JavaScript, HTML, CSS, SQL, and many more languages and tools. \r\n- Earn Certificates: Showcase your coding expertise with certificates from Sololearn. Perfect for your professional portfolio and advancing your tech career. \r\n\r\nJoin Millions of Learners Join over 35 million learners worldwide who trust Sololearn to help them learn to code and develop their programming skills. Whether you’re focused on Python, JavaScript, HTML, CSS, SQL, or exploring one of the many other languages and technologies available, Sololearn is the coding app that makes learning accessible and fun. \r\n\r\nWhat Users Say: \r\n\r\n- \"Wow! Sololearn is the app I've been looking for! It's amazing for learning Python, JavaScript, and so many other programming languages. Whether you're a beginner or looking to advance your skills, this app has everything you need to start an exciting career in tech.\" \r\n- Eric D. - \"The best coding app for beginners and advanced learners alike! Sololearn makes learning Python, JavaScript, and HTML easy and fun.\" \r\n- Sarah K. Start Learning Today! Don’t wait to kickstart your tech career. \r\n\r\nDownload Sololearn and start coding in Python, JavaScript, HTML, CSS, SQL, and many more. With Sololearn, learning to code is just a tap away! \r\n\r\nContact Us For any questions, reach out to us at support@sololearn.com. Check our Privacy Policy and Terms of Service at https://sololearn.com/terms.",
+          "developer": "Sololearn - Learn to Code",
+          "developer_email": "info@sololearn.com",
+          "developer_website": "http://www.sololearn.com",
+          "category": "Education",
+          "score": 4.5790524,
+          "ratings": 698907,
+          "reviews_count": 21979,
+          "price": "Free",
+          "free": true,
+          "size": "",
+          "android_version": "",
+          "content_rating": "Teen",
+          "released": "Oct 25, 2016",
+          "updated": 1736863709,
+          "version": "4.95.1",
+          "installs": "10,000,000+",
+          "screenshots": [
+            "https://play-lh.googleusercontent.com/COX5-5xuV5o8Jr-Rh68Ql82O9SfdZ9Xsc6h5KZis1jVOoCkX8o8R7bphT-_B5T_s4SI",
+            "https://play-lh.googleusercontent.com/hwx1WtsrICj56ojU-OdN_zEDZtvUE3IGi3eK0CwnntL9Je_UkWpGTpb0yjjFkr9JiOc",
+            "https://play-lh.googleusercontent.com/0RJyxxgOYWKYfIHQRONXuIWbjoqt0jBzz4yqtoFPX5RhYvC1QTxQx9kUNVCpxnx0l_k",
+            "https://play-lh.googleusercontent.com/jCujIHStJzkepa4lpgBfdKpyCliSq-ZH3uWhi9F4WN5euBhWMy3wZ7IR72Zg28BiLA",
+            "https://play-lh.googleusercontent.com/fV4ZffI8fYL9njukdig-85H_FLEkJno3cdc5wuEB7Dl5hmEXBeS9iYBvvqjrE_1odw",
+            "https://play-lh.googleusercontent.com/tJFne4wJr6zeCofDmOWEllGlqph5zvly1TldBt3Hpm_VajDoSe2OtLY-y2QY6M0pTnRV",
+            "https://play-lh.googleusercontent.com/Fjay_5M6aVsXG31uQGIqB3RNCNsjWeocoTsds17EyyMlOpsP6nZOphwmMUWSIo7urxA",
+            "https://play-lh.googleusercontent.com/cmiwvrgeyy9muNbYuQiPDsTLk4vCEKjNHy9mvYybsoEADQ-UQH2S3O4GRU5mirk8KLE",
+            "https://play-lh.googleusercontent.com/sw9JYeSCZgmUD4cbHoaQrDjaslnBG_Fqi2CowKep1o2hQ4DwTj9loKUdNpCQjHH0mb0",
+            "https://play-lh.googleusercontent.com/_3jJ54DAqiwqlLY5YxpA_O3iTA7SAxXIelpJmOPknIWNH9jS5LaWA-7CfmNOGqo0gQ",
+            "https://play-lh.googleusercontent.com/1r0AijjgFCVau7egTxLSRdNtmCPh0yG3OnL77jFeZJjj0v6enVPQ5e3ntUPeV77KTk8",
+            "https://play-lh.googleusercontent.com/skatalXPiDQSV9WoPp3SB1AOyMFn0FrBIH7jbezu5DGLhxR0Z7jOF-qjtATTrjmj2ho",
+            "https://play-lh.googleusercontent.com/nOmZd6eMJ57DdaNLwydNk7R-HplbLaOxUMZjMbT9dPjpaBOTSfofLnHfnYij6QoQi7xU",
+            "https://play-lh.googleusercontent.com/R8WSNqcE0OGdRMXCzjbmU7Ygjz_mUBk3bz89CDIBNQFiQbJpIwqCp0OSnfNn0uJSVQ",
+            "https://play-lh.googleusercontent.com/LGPhomH5f_xQikoL2C7YHNSqV4AR4p3YiGtCYlUD479ksb50Qy1mitVzqIk9zawxrEE",
+            "https://play-lh.googleusercontent.com/yb0qlPuw1YJbqFoHutQjcWfYhcbYkNh5tER13YbX6ytmisWCiInH5ubgSOHJQD1xFg"
+          ],
+          "recent_changes": "",
+          "similar_apps": [],
+          "recent_reviews": [
+            {
+              "review_id": "546d8814-32d5-48bb-a4d2-060539dbe82c",
+              "username": "Akah joseph",
+              "score": 5,
+              "content": "simple and easy to learn",
+              "date": "2025-01-17 23:40:27"
+            },
+            {
+              "review_id": "d217dc2b-fde5-4164-afbf-b175ab7d88d5",
+              "username": "Mohamed Habib",
+              "score": 5,
+              "content": "Great app",
+              "date": "2025-01-17 22:55:03"
+            },
+            {
+              "review_id": "d465dce2-f2fc-43d4-a577-7b98d7b2961f",
+              "username": "Nafees",
+              "score": 4,
+              "content": "it's better to I allow users to use AI practices in free plan.",
+              "date": "2025-01-17 22:07:20"
+            },
+            {
+              "review_id": "e4e084f2-593c-4a38-ab0e-7265e621cf6e",
+              "username": "####9000 #####",
+              "score": 5,
+              "content": "nice",
+              "date": "2025-01-17 21:19:18"
+            },
+            {
+              "review_id": "313dfb47-9e5b-4be4-90a0-2153b000f085",
+              "username": "Nakul Pasi",
+              "score": 1,
+              "content": "This is very bad app Because it blocked my 10 accounts 😭 no any reason.",
+              "date": "2025-01-17 18:36:41"
+            }
+          ]
+        }
+      ]
+    },
+

@@ -1,0 +1,1316 @@
+{
+    "news": {
+      "metadata": {
+        "query": "next js ",
+        "from_date": null,
+        "to_date": null,
+        "language": "en",
+        "sort_by": "relevancy",
+        "total_results": 285,
+        "timestamp": "2025-01-19 01:07:19"
+      },
+      "articles": [
+        {
+          "source": {
+            "id": null,
+            "name": "Comfydeploy.com"
+          },
+          "author": null,
+          "title": "You don't need Next.js – Why we migrated from Next to React",
+          "description": "We migrated the ComfyDeploy dashboard from Next.js to just React",
+          "url": "https://www.comfydeploy.com/blog/you-dont-need-nextjs",
+          "urlToImage": null,
+          "publishedAt": "2025-01-01T11:55:37Z",
+          "content": "You don't need Next.js\r\nWe migrated the ComfyDeploy dashboard from Next.js to just React\r\nTL;DR\r\n<ul><li>Build time went from 3 mins to 18 secs</li><li>Hot reload under 200ms</li><li>Everybody on the… [+6149 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Thekitchn.com"
+          },
+          "author": "Alexandra Foster",
+          "title": "Ben & Jerry’s Just Launched Its Largest Tubs Ever, and Every Flavor Is So Good, I Can’t Pick a Favorite",
+          "description": "“It’s about time!”\nREAD MORE...",
+          "url": "https://www.thekitchn.com/ben-and-jerrys-scoop-apalooza-product-review-23705331",
+          "urlToImage": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/k%2FEdit%2F2025-01-ben-jerrys-new-flavors%2Fben-jerrys-new-flavors-5_6ad74f-crop",
+          "publishedAt": "2025-01-14T16:30:00Z",
+          "content": "We independently select these products—if you buy from one of our links, we may earn a commission. All prices were accurate at the time of publishing.\r\nBen &amp; Jerrys pints have become a mainstay i… [+3548 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "TechSpot"
+          },
+          "author": "Alfonso Maruccia",
+          "title": "Oracle won't relinquish JavaScript trademark, so the JS community prepares for court battle",
+          "description": "The initial attempt to cancel Oracle's ownership of the \"JavaScript\" trademark was unsuccessful. Deno Land and other prominent JS community members recently petitioned the United States Patent and Trademark Office (USPTO). The proponents asked the US agency t…",
+          "url": "https://www.techspot.com/news/106351-oracle-wont-relinquish-javascript-trademark-js-community-prepares.html",
+          "urlToImage": "https://www.techspot.com/images2/news/bigimage/2025/01/2025-01-15-image-17.jpg",
+          "publishedAt": "2025-01-15T17:27:00Z",
+          "content": "In a nutshell: JavaScript is about to become a matter of legal proceedings between competing parties. Oracle claims ownership of the trademark, but the company will now have to defend its questionabl… [+2447 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "The Star Online"
+          },
+          "author": "SHERIDAN MAHAVERA",
+          "title": "Rafizi: Area will create 20,000 skilled jobs in 10 years",
+          "description": "PETALING JAYA: The Johor-Singapore Special Economic Zone (JS-SEZ) aims to create 20,000 highly skilled jobs in the next 10 years, says Rafizi Ramli. Read full story",
+          "url": "https://www.thestar.com.my/news/nation/2025/01/08/rafizi-area-will-create-20000-skilled-jobs-in-10-years",
+          "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/01/08/3106394.jpg",
+          "publishedAt": "2025-01-07T16:00:00Z",
+          "content": "PETALING JAYA: The Johor-Singapore Special Economic Zone (JS-SEZ) aims to create 20,000 highly skilled jobs in the next 10 years, says Rafizi Ramli.\r\nThis is achieved by getting firms to implement 10… [+2646 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "The Star Online"
+          },
+          "author": "SHERIDAN MAHAVERA",
+          "title": "JS-SEZ targets 50 high-value projects within five years, says Rafizi",
+          "description": "PUTRAJAYA: The Johor-Singapore Special Economic Zone (JS-SEZ) aims to get 50 high-value projects off the ground and create 20,000 high skilled jobs within the next five years, says Rafizi Ramli. Read full story",
+          "url": "https://www.thestar.com.my/news/nation/2025/01/07/js-sez-targets-50-high-value-projects-within-five-years-says-rafizi",
+          "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/01/07/3104925.jpg",
+          "publishedAt": "2025-01-07T04:11:00Z",
+          "content": "PUTRAJAYA: The Johor-Singapore Special Economic Zone (JS-SEZ) aims to get 50 high-value projects off the ground and create 20,000 high skilled jobs within the next five years, says Rafizi Ramli.\r\nRat… [+3307 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Scalzi.com"
+          },
+          "author": "John Scalzi",
+          "title": "The Sock Flip",
+          "description": "I posted this over at Bluesky and I thought it was worth asking here as well, because it was a real thing that happened to me: One day I disdained the idea of socks as a gift, and then it feels like literally the next I was all “Oh Hell YEAH socks” whenever n…",
+          "url": "https://whatever.scalzi.com/2024/12/18/the-sock-flip/",
+          "urlToImage": "https://i0.wp.com/whatever.scalzi.com/wp-content/uploads/2020/12/cropped-whateverfavicon.jpg?fit=512%2C512&ssl=1",
+          "publishedAt": "2024-12-18T17:00:00Z",
+          "content": "Posted onDecember 18, 2024\r\n  \r\nPosted byJohn Scalzi  \r\n  \r\n15 Comments\r\nWhile we are on the general topic of gifts I would like to know what age you were when socks went from \"worst gift ever\" to \"a… [+805 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Nuejs.org"
+          },
+          "author": null,
+          "title": "A standards-first web framework",
+          "description": "Nue is HTML, CSS, and JavaScript taken to their absolute peak.",
+          "url": "https://nuejs.org/blog/standards-first-web-framework/",
+          "urlToImage": "https://nuejs.org/img/standards-first.png",
+          "publishedAt": "2025-01-16T08:30:24Z",
+          "content": "January 16, 2025\r\nToday Nue takes a new, more natural direction: it becomes a standards first web framework. The focus has always been to strip away artificial layers and help developers take modern … [+11008 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Js.org"
+          },
+          "author": null,
+          "title": "2024 JavaScript Rising Stars",
+          "description": "Welcome to the 9th edition of JavaScript Rising Stars, your guide to the top trends and projects shaping the JS ecosystem in 2024. The following graphs compare the number of stars added on GitHub over the last 12 months. We analyzed projects coming from Best …",
+          "url": "https://risingstars.js.org/2024/en",
+          "urlToImage": "https://risingstars.js.org/img/2024/en/rising-stars.png",
+          "publishedAt": "2025-01-07T06:19:53Z",
+          "content": "This year has been a good one in the Vue ecosystem. Vue itself has seen a much more active release cycle from the core team, with new minors delivering regular performance improvements. For example, … [+2342 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Scalzi.com"
+          },
+          "author": "John Scalzi",
+          "title": "What I Have Eligible for Award Consideration This Year, 2025 Edition",
+          "description": "It’s Constituent Service, which is eligible in the Best Novella category, and, via Amber Benson’s terrific narration performance, in the Best Dramatic Presentation, Long Form category as well. Constituent Service is currently still an Audible exclusive, so yo…",
+          "url": "https://whatever.scalzi.com/2025/01/07/what-i-have-eligible-for-award-consideration-this-year-2025-edition/",
+          "urlToImage": "https://whatever.scalzi.com/wp-content/uploads/2024/09/51na9uundml138042498987266874.jpg",
+          "publishedAt": "2025-01-07T13:44:46Z",
+          "content": "Posted onJanuary 7, 2025\r\n  \r\nPosted byJohn Scalzi  \r\n  \r\nLeave a Comment\r\nIt’s Constituent Service, which is eligible in the Best Novella category, and, via Amber Benson’s terrific narration perform… [+1153 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "The Star Online"
+          },
+          "author": "YEE XIANG",
+          "title": "Low tax rates to reel in investors",
+          "description": "JOHOR BARU: Investors can look forward to a significant reduction in corporate income tax rate when they invest in the Johor-Singapore Special Economic Zone (JS-SEZ), says a state executive councillor. Read full story",
+          "url": "https://www.thestar.com.my/news/nation/2025/01/15/low-tax-rates-to-reel-in-investors",
+          "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/01/15/3118141.jpeg",
+          "publishedAt": "2025-01-14T23:00:00Z",
+          "content": "JOHOR BARU: Investors can look forward to a significant reduction in corporate income tax rate when they invest in the Johor-Singapore Special Economic Zone (JS-SEZ), says a state executive councillo… [+1716 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Sy1.sh"
+          },
+          "author": null,
+          "title": "Tracking Down the Bulgarian Marketplace Scams",
+          "description": "Tracking Down the Bulgarian Marketplace Scams",
+          "url": "https://sy1.sh/posts/2024-19-12-investigation-on-scams/",
+          "urlToImage": null,
+          "publishedAt": "2024-12-20T12:59:29Z",
+          "content": "Introduction\r\nThis is rather an unusual article that I would be publishing. I usually don’t do threat hunting or any amount of hunting outside work, but this one got personal.\r\nThis is probably a goo… [+20414 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Github.com"
+          },
+          "author": "e7h4n",
+          "title": "Show HN: CCState is a semantic, strict, and flexible state management library",
+          "description": "Contribute to e7h4n/ccstate development by creating an account on GitHub.",
+          "url": "https://github.com/e7h4n/ccstate",
+          "urlToImage": "https://opengraph.githubassets.com/d39524de1416987b90ca0cc1ecebd9cf8332fa50c47ebf333becbbd351121adf/e7h4n/ccstate",
+          "publishedAt": "2024-12-19T10:14:15Z",
+          "content": "CCState is a semantic, strict, and flexible state management library suitable for medium to large single-page applications with complex state management needs.\r\nThe name of CCState comes from three b… [+19536 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Nofilmschool.com"
+          },
+          "author": "Jason Hellerman",
+          "title": "'Sullivan's Crossing' Composers Ari Posner and Joel Schwartz Take Us Through Crafting a Multi Seasonal Score",
+          "description": "The music in a TV show is often an unsung hero. But it can help shape our mood and our excitement from scene to scene, and season to season. Composers Ari Posner and Joel Schwartz understand that, and rise to the challenge over and over on the CW's Sullivan's…",
+          "url": "https://nofilmschool.com/composers-ari-posner-joel-schwartz",
+          "urlToImage": "https://nofilmschool.com/media-library/sullivan-s-crossing-composers-ari-posner-and-joel-schwartz.jpg?id=54468822&width=1200&height=600&coordinates=0%2C44%2C0%2C45",
+          "publishedAt": "2024-12-31T16:03:05Z",
+          "content": "The music in a TV show is often an unsung hero. But it can help shape our mood and our excitement from scene to scene, and season to season. \r\nComposers Ari Posner and Joel Schwartz understand that, … [+13086 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Wallpaper*"
+          },
+          "author": "Jonathan Bell",
+          "title": "Danish manufacturer Zenvo Automotive’s Aurora is the true enthusiast’s hybrid hypercar",
+          "description": "Zenvo Automotive dovetails Danish design culture with a love of high-end engineering and exceptional performance. We talk to the company’s Jens Sverdrup about its newest machine, the Aurora",
+          "url": "https://www.wallpaper.com/transportation/zenvo-automotive-aurora-jens-sverdrup-interview",
+          "urlToImage": "https://cdn.mos.cms.futurecdn.net/VkMqAKcHUEHoJif8aziGyU-1200-80.jpg",
+          "publishedAt": "2025-01-10T04:00:00Z",
+          "content": "Jens Sverdrup is chairman of Zenvo Automotive, having joined the Danish company in 2021 after garnering experience amongst the upper echelons of the supercar and hypercar world, including stints at K… [+8480 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Ianthehenry.com"
+          },
+          "author": null,
+          "title": "Building Bauble",
+          "description": "I made something that I think is pretty neat, and I want to tell you about it.\n\n\nThis is a little hot air balloon made out of alternating layers of brass and bronze that lock together with these angled facets:\n\n\nIt’s 3D printed, sort of, but it really is soli…",
+          "url": "https://ianthehenry.com/posts/bauble/building-bauble/",
+          "urlToImage": "https://ianthehenry.com/posts/bauble/building-bauble/balloon.png",
+          "publishedAt": "2025-01-10T22:22:15Z",
+          "content": "I made something that I think is pretty neat, and I want to tell you about it.\r\nThis is a little hot air balloon made out of alternating layers of brass and bronze that lock together with these angle… [+33506 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "2ality.com"
+          },
+          "author": null,
+          "title": "Node’s new built-in support for TypeScript",
+          "description": "Starting with v23.6.0, Node.js supports TypeScript without any flags. This blog post explains how it works and what to look out for.",
+          "url": "https://2ality.com/2025/01/nodejs-strip-type.html",
+          "urlToImage": null,
+          "publishedAt": "2025-01-07T23:10:26Z",
+          "content": "Starting with v23.6.0, Node.js supports TypeScript without any flags. This blog post explains how it works and what to look out for.\r\nHow does it work?  #\r\nConsider the following file:\r\n// demo.mtsfu… [+4370 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Googleblog.com"
+          },
+          "author": "Open Source Programs Office",
+          "title": "Google Season of Docs announces results of 2024 program",
+          "description": "",
+          "url": "https://opensource.googleblog.com/2024/12/google-season-of-docs-announces-program-results-2024.html",
+          "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJBYerUEDOh1oDTAZtlw8bLEYwwsleH7strk3rVoDwgUC2XtBxk2WG0AC_Ia8g9ho3JGqPctIxf9xgq0DWIWS2yBRiws7P4pwzy6dD81UbKOefbgw-ZuPIpZYKEAatn_o2kxce-aNMajdIIyAvDw97NoScaF-kOKwDduz7VIuKqJo7BdnQMcD3TpWRvUU/w1200-h630-p-k-no-nu/Social-Season-of-Docs.png",
+          "publishedAt": "2024-12-18T17:00:00Z",
+          "content": "Google Season of Docs is happy to announce the 2024 program results, including the project case studies.\n\nGoogle Season of Docs is a grant-based program where open source organizations apply for US$5… [+3416 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Forbes"
+          },
+          "author": "Tom Aspray, Contributor, \n Tom Aspray, Contributor\n https://www.forbes.com/sites/tomaspray/",
+          "title": "Correction – Not A Major Top",
+          "description": "The Viper Report’s Tom Aspray shares his bond and stock market outlook after the hot jobs report while alerting traders to changes in his sector outlook.",
+          "url": "https://www.forbes.com/sites/tomaspray/2025/01/12/correction--not-a-major-top/",
+          "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67845e2c4f5e35dd6c994f80/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "publishedAt": "2025-01-13T00:38:32Z",
+          "content": "Adjusting for changing conditions\r\ngetty\r\nThe correction picked up steam last week as the losses Friday after Thursdays holiday was driven by the higher bond yields driven by renewed fears of high in… [+5557 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Scalzi.com"
+          },
+          "author": "John Scalzi",
+          "title": "What I’m Expecting From the New Administration",
+          "description": "Nothing great! I was going to write a longer and more serious piece about this, and who knows, later I might, but right now I’m behind on a book deadline and it has priority. Nevertheless, I would feel remiss not at least posting some bit of commentary about …",
+          "url": "https://whatever.scalzi.com/2025/01/17/what-im-expecting-from-the-new-administration/",
+          "urlToImage": "https://whatever.scalzi.com/wp-content/uploads/2023/08/WHSJohnS2.jpg",
+          "publishedAt": "2025-01-17T17:52:30Z",
+          "content": "Posted onJanuary 17, 2025\r\n  \r\nPosted byJohn Scalzi  \r\n  \r\n1 Comment\r\nNothing great!\r\nI was going to write a longer and more serious piece about this, and who knows, later I might, but right now I’m … [+2383 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Pypy.org"
+          },
+          "author": "CF Bolz-Tereick",
+          "title": "PyPy: Musings on Tracing in PyPy",
+          "description": "Last summer, Shriram Krishnamurthi asked on\nTwitter:\n\n\"I'm curious what the current state of tracing JITs is. They used to be all the\nrage for a while, then I though I heard they weren't so effective,",
+          "url": "https://www.pypy.org/posts/2025/01/musings-tracing.html",
+          "urlToImage": null,
+          "publishedAt": "2025-01-05T17:01:09Z",
+          "content": "Last summer, Shriram Krishnamurthiasked on\r\nTwitter:\r\n\"I'm curious what the current state of tracing JITs is. They used to be all the\r\nrage for a while, then I though I heard they weren't so effectiv… [+10860 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Forbes"
+          },
+          "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+          "title": "What To Expect From JNJ Stock In 2025?",
+          "description": "Johnson & Johnson stock (NYSE: JNJ) lost about 7% in 2024, underperforming the broader S&P 500 index, which gained 23% for the year.",
+          "url": "https://www.forbes.com/sites/greatspeculations/2025/01/10/what-to-expect-from-jnj-stock-in-2025/",
+          "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67814839cda1b8b5fe3e9a62/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "publishedAt": "2025-01-10T16:19:58Z",
+          "content": "CHINA - 2023/11/11: In this photo illustration, the American multinational medical devices and ... [+] pharmaceutical company Johnson &amp; Johnson (J&amp;J, NYSE: JNJ) logo seen displayed on a smart… [+5883 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Scalzi.com"
+          },
+          "author": "John Scalzi",
+          "title": "2024, 2025",
+          "description": "So what happened for and/or to me in 2024? * Visited Iceland, Norway, Brazil, Scotland and France, the first three of which were first time experiences for me; * Was nominated for the Hugo and Locus awards and was given the Dragon, Seiun and Skylark awards; *…",
+          "url": "https://whatever.scalzi.com/2024/12/31/2024-2025/",
+          "urlToImage": "https://whatever.scalzi.com/wp-content/uploads/2024/06/PXL_20240527_112617655.MP_.jpg",
+          "publishedAt": "2024-12-31T17:28:37Z",
+          "content": "Posted onDecember 31, 2024\r\n  \r\nPosted byJohn Scalzi  \r\n  \r\n1 Comment\r\nSo what happened for and/or to me in 2024?\r\n* Visited Iceland, Norway, Brazil, Scotland and France, the first three of which wer… [+4496 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "[Removed]"
+          },
+          "author": null,
+          "title": "[Removed]",
+          "description": "[Removed]",
+          "url": "https://removed.com",
+          "urlToImage": null,
+          "publishedAt": "2025-01-13T15:30:32Z",
+          "content": "[Removed]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Psychology Today"
+          },
+          "author": "Mark S. Gold M.D.",
+          "title": "Top Findings on Addiction in 2024",
+          "description": "Researchers have made some surprising breakthroughs in 2024 addiction research, benefitting addicts and their families, as well as the general public.",
+          "url": "https://www.psychologytoday.com/intl/blog/addiction-outlook/202412/top-findings-on-addiction-in-2024",
+          "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-12/istockphoto-480420098-2048x2048%20Psychedelic%20Brain.jpg?itok=V3b7lNef",
+          "publishedAt": "2024-12-31T16:18:48Z",
+          "content": "Substance use disorders (SUDs) represent a global challenge, profoundly affecting individuals, families, and communities. Nevertheless, researchers are making considerable progress in understanding a… [+8931 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "CNA"
+          },
+          "author": null,
+          "title": "Johor-Singapore SEZ a ‘big plus’ for firms to tap both sides’ different strengths: PM Wong",
+          "description": "Singapore-based businesses have shown “a lot of interest” in expanding to the upcoming special economic zone in Johor, says Singapore Prime Minister Lawrence Wong, as he wraps up a two-day visit to Malaysia for a leaders’ retreat with Prime Minister Anwar Ibr…",
+          "url": "https://www.channelnewsasia.com/asia/lawrence-wong-malaysia-singapore-leaders-retreat-johor-sez-4842446",
+          "urlToImage": "https://dam.mediacorp.sg/image/upload/s--flxFvjFg--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2025/01/07/fdz_6097.jpg?itok=3l6avB2b",
+          "publishedAt": "2025-01-07T10:01:29Z",
+          "content": "The JS-SEZ agreement has been a year in the making as officials from both sides trashed out a deal, in what Mr Anwar had described earlier on Tuesday as a unique and rare initiative between two count… [+2524 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Mark.ie"
+          },
+          "author": null,
+          "title": "mark.ie: My LocalGov Drupal contributions for week-ending December 20th, 2024",
+          "description": "Rewriting a lot of JavaScript and creating a contact component.",
+          "url": "https://mark.ie/blog/my-localgov-drupal-contributions-for-week-ending-december-20th-2024/",
+          "urlToImage": "https://mark.ie//static/ff4d2af8bef75e5f19298c267b09741a/c2d17/big-blue-door-with-blurb.png",
+          "publishedAt": "2024-12-19T17:00:00Z",
+          "content": "Rewriting a lot of JavaScript and creating a contact component.\r\nNeed LocalGov Drupal services? Give Big Blue Door a shout.\r\nMeetings and Meet-ups\r\n<ol><li>Merge Tuesdays: I got to two Merge Tuesdays… [+2930 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Scalzi.com"
+          },
+          "author": "John Scalzi",
+          "title": "Some Announcements about Scalzi Enterprises and Whatever",
+          "description": "Tomorrow, January 6, 2025, marks the beginning of the first full business week of the year, and with it, Scalzi Enterprises also begins its public incarnation as a full-time family business. Krissy, as you probably know by now, is the CEO and will handle the …",
+          "url": "https://whatever.scalzi.com/2025/01/05/some-announcements-about-scalzi-enterprises-and-whatever/",
+          "urlToImage": "https://whatever.scalzi.com/wp-content/uploads/2025/01/DSC_9987.jpg",
+          "publishedAt": "2025-01-05T18:36:22Z",
+          "content": "Posted onJanuary 5, 2025\r\n  \r\nPosted byJohn Scalzi  \r\n  \r\n2 Comments\r\nTomorrow, January 6, 2025, marks the beginning of the first full business week of the year, and with it, Scalzi Enterprises also … [+3625 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Scalzi.com"
+          },
+          "author": "John Scalzi",
+          "title": "Taking Leave",
+          "description": "If you want to know when I pretty much drew a line though my friendship with Neil Gaiman, it was when Neil acknowledged that he made moves on his early-20s nanny on her first day of employment. This meant that the absolute best case scenario of this whole sit…",
+          "url": "https://whatever.scalzi.com/2025/01/15/taking-leave/",
+          "urlToImage": "https://i0.wp.com/whatever.scalzi.com/wp-content/uploads/2020/12/cropped-whateverfavicon.jpg?fit=512%2C512&ssl=1",
+          "publishedAt": "2025-01-15T15:05:52Z",
+          "content": "Posted onJanuary 15, 2025\r\n  \r\nPosted byJohn Scalzi  \r\n  \r\n1 Comment\r\nIf you want to know when I pretty much drew a line though my friendship with Neil Gaiman, it was when Neil acknowledged that he m… [+5365 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Howtoforge.com"
+          },
+          "author": "Arvid L",
+          "title": "How to Install Joomla with Nginx on Ubuntu 24.04 Server",
+          "description": "Joomla is flexible and open-source content management for building websites and online publications. In this guide, we'll show you how to install Joomla on Ubuntu 24.04 server.",
+          "url": "https://www.howtoforge.com/how-to-install-joomla-on-ubuntu-24-04-server/",
+          "urlToImage": "https://www.howtoforge.com/images/featured/ubuntu-24-04-joomla-nginx.png",
+          "publishedAt": "2025-01-16T20:13:35Z",
+          "content": "Joomla is flexible and open-source content management for building websites and online publications. Powered by PHP, it can be used for multiple scenarios, such as forums, photo galleries, e-commerce… [+8895 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "404.taipei"
+          },
+          "author": "Vincent Cantin (green-coder)",
+          "title": "What's in a component",
+          "description": "What’s in a component? That which implemented in any other way would fell as reusable.",
+          "url": "https://blog.404.taipei/whats-in-a-component",
+          "urlToImage": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1736495928668%2Fd852dd78-0306-4bb1-929a-0b0bd4506469.jpeg%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng",
+          "publishedAt": "2025-01-10T08:02:07Z",
+          "content": "Whats in a component? That which implemented in any other way would fell as reusable\r\nThe complete source code displayed in this article can be found in Vracs repository.\r\nIn the last post Making HTM… [+8544 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "MLB Trade Rumors"
+          },
+          "author": "Nick Deeds",
+          "title": "Poll: Where Will Roki Sasaki Sign?",
+          "description": "The 2025 international amateur signing period begins tomorrow. While that milestone is a bit of a footnote for many fans in the offseason calendar, this year is different thanks to the presence of 23-year-old phenom Roki Sasaki. Sasaki was posted for major le…",
+          "url": "https://www.mlbtraderumors.com/2025/01/poll-where-will-roki-sasaki-sign.html",
+          "urlToImage": "https://cdn.mlbtraderumors.com/files/2024/03/USATSI_20279015-1024x683.jpg",
+          "publishedAt": "2025-01-14T18:38:14Z",
+          "content": "The 2025 international amateur signing period begins tomorrow. While that milestone is a bit of a footnote for many fans in the offseason calendar, this year is different thanks to the presence of 23… [+4950 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "404.taipei"
+          },
+          "author": "Vincent Cantin (green-coder)",
+          "title": "Making HTML reactive using Signaali",
+          "description": "Learn how to make HTML reactive using Signaali by updating the DOM when events are fired or when some data changes.",
+          "url": "https://blog.404.taipei/making-html-reactive-using-signaali",
+          "urlToImage": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1736182463510%2Ff39a48bd-28f2-49af-b32c-481c5360453b.jpeg%3Fw%3D1200%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng",
+          "publishedAt": "2025-01-06T15:22:12Z",
+          "content": "Signaali is a library which provides functions to build reactive systems. In this article, I describe how to use it to change the DOM when an event happens or when a data changes.\r\nThe complete sourc… [+4958 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "InfoQ.com"
+          },
+          "author": "Willian Martins",
+          "title": "Presentation: Empirical Observations on the The Future of Scalable UI Architecture",
+          "description": "Willian Martins discusses a concise course of action regarding the patterns to introduce into a UI system and how to build UI architectures for scale. By Willian Martins",
+          "url": "https://www.infoq.com/presentations/scalable-ui-architecture/",
+          "urlToImage": "https://res.infoq.com/presentations/scalable-ui-architecture/en/mediumimage/willianmartins-medium-1729236195288.jpeg",
+          "publishedAt": "2024-12-18T14:10:00Z",
+          "content": "Transcript\r\nMartins: I'm a person that talks a lot about the future of JavaScript and emerging technologies. This time, I got a challenge to talk about UI architecture.\r\nMy name is Willian. I work at… [+33336 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "DW (English)"
+          },
+          "author": "Deutsche Welle",
+          "title": "Denmark rejects Japan request, frees Paul Watson",
+          "description": "Anti-whaling activist Paul Watson has been freed after five months in a Greenland jail. Japan says he attacked one of its whaling ships in 2010, Watson called the charges \"a total fabrication.\"",
+          "url": "https://www.dw.com/en/denmark-rejects-japan-request-frees-paul-watson/a-71087930",
+          "urlToImage": "https://static.dw.com/image/71087559_6.jpg",
+          "publishedAt": "2024-12-17T18:36:00Z",
+          "content": "Denmark's Justice Ministry on Tuesday rejected a Japanese extradition request and released Canadian-American anti-whaling activist Paul Watson from a Greenland jail after a five-month detention.\r\nWat… [+3532 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Javascriptweekly.com"
+          },
+          "author": null,
+          "title": "A 2024 JavaScript retrospective",
+          "description": "<table>\n <tr><td>\n \n <table><tr>\n<td>#​717 — December 19, 2024\r\n</td>\n<td>Read on the Web\r\n</td>\n</tr></table>\n\n<table><tr><td> We've made it to the end of 2024! In this issue, we're being reflective, leading with a few news items but then looking at what m…",
+          "url": "https://javascriptweekly.com/issues/717",
+          "urlToImage": null,
+          "publishedAt": "2024-12-19T00:00:00Z",
+          "content": "We've made it to the end of 2024! In this issue, we're being reflective, leading with a few news items but then looking at what made 2024 special in the world of JavaScript, and covering some of the … [+284 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "MLB Trade Rumors"
+          },
+          "author": "Nick Deeds",
+          "title": "Triston Casas And Boston’s Infield Dilemma",
+          "description": "The rumor mill has been a whirlwind for Red Sox fans this offseason, with the club diving headfirst into the Juan Soto sweepstakes only to come up short, then getting involved in the markets for Max Fried and Corbin Burnes before ultimately pivoting to Garret…",
+          "url": "https://www.mlbtraderumors.com/2025/01/triston-casas-and-bostons-infield-dilemma.html",
+          "urlToImage": "https://cdn.mlbtraderumors.com/files/2023/08/triston-casas-red-sox-1024x683.jpg",
+          "publishedAt": "2025-01-07T19:24:49Z",
+          "content": "The rumor mill has been a whirlwind for Red Sox fans this offseason, with the club diving headfirst into the Juan Soto sweepstakes only to come up short, then getting involved in the markets for Max … [+5932 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Github.io"
+          },
+          "author": null,
+          "title": "Web Voyager",
+          "description": "How-to Guides Conceptual Guides Reference Web Voyager¶ WebVoyager by He, et. al., is a vision-enabled web-browsing agent capable of controlling the mouse and keyboard. It works by viewing annotated browser screenshots for each turn, then choosing the next ste…",
+          "url": "https://langchain-ai.github.io/langgraph/tutorials/web-navigation/web_voyager/",
+          "urlToImage": null,
+          "publishedAt": "2024-12-24T06:05:10Z",
+          "content": "WebVoyager by He, et. al., is a vision-enabled web-browsing agent capable of controlling the mouse and keyboard.\r\nIt works by viewing annotated browser screenshots for each turn, then choosing the ne… [+21260 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Percona.com"
+          },
+          "author": "Przemysław Malkowski",
+          "title": "How To Deal with a AUTO_INCREMENT Max Value Problem in MySQL and MariaDB",
+          "description": "An application down due to not being able to write into a table anymore due to a maximum allowed auto-increment value may be one of the worst nightmares of a DBA. Typical errors related to this problem in MySQL will look like this: [crayon-6762d8036ad68164720…",
+          "url": "https://www.percona.com/blog/how-to-deal-with-a-auto_increment-max-value-problem-in-mysql-and-mariadb/",
+          "urlToImage": "https://www.percona.com/blog/wp-content/uploads/2024/12/AUTO_INCREMENT-Max-Value-Problem-in-MySQL.jpeg",
+          "publishedAt": "2024-12-18T14:10:53Z",
+          "content": "An application down due to not being able to write into a table anymore due to a maximum allowed auto-increment value may be one of the worst nightmares of a DBA. Typical errors related to this probl… [+24225 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+          },
+          "author": "Victoria LUKOVENKO and Mykola ZAVGORODNIY",
+          "title": "Blasts in Kyiv as UK's Starmer inks 'landmark' 100-year accord",
+          "description": "British Prime Minister Keir Starmer signed a \"landmark\" 100-year partnership agreement with Ukraine on Thursday during an unannounced visit to the war-torn...",
+          "url": "https://www.yahoo.com/news/blasts-kyiv-uks-starmer-visits-105527638.html",
+          "urlToImage": "https://media.zenfs.com/en/afp.com/a41559cf5cf2ecffe6993875b7e99a3c",
+          "publishedAt": "2025-01-16T19:40:24Z",
+          "content": "British Prime Minister Keir Starmer signed a \"landmark\" 100-year partnership agreement with Ukraine on Thursday during an unannounced visit to the war-torn country, seeking to shore up support for Ky… [+4391 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Scalzi.com"
+          },
+          "author": "John Scalzi",
+          "title": "20 Years of Old Man’s War",
+          "description": "In retrospect, Tor Books officially releasing Old Man’s War on January 1, 2005, doesn’t seem like a huge vote of confidence in the novel. One, the holiday season is over and all the spending has been done save for a stray, occasional gift card. Two, even if o…",
+          "url": "https://whatever.scalzi.com/2025/01/01/20-years-of-old-mans-war/",
+          "urlToImage": "https://whatever.scalzi.com/wp-content/uploads/2025/01/DSC_8615b.jpg",
+          "publishedAt": "2025-01-01T17:23:12Z",
+          "content": "Posted onJanuary 1, 2025\r\n  \r\nPosted byJohn Scalzi  \r\n  \r\n11 Comments\r\nIn retrospect, Tor Books officially releasing Old Man’s War on January 1, 2005, doesn’t seem like a huge vote of confidence in t… [+10023 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Perfplanet.com"
+          },
+          "author": "Patrick Meenan",
+          "title": "Getting Real (small) With Compression Dictionaries",
+          "description": "Compression dictionary transport is a relatively new feature in HTTP that allows for using custom compression dictionaries to improve the compression of HTTP responses. The results can be pretty dramatic, with responses anywhere from 60-90+% smaller than usin…",
+          "url": "https://calendar.perfplanet.com/2024/getting-real-small-with-compression-dictionaries/",
+          "urlToImage": "https://calendar.perfplanet.com/images/2024/pat-og.png",
+          "publishedAt": "2024-12-30T01:50:54Z",
+          "content": "Compression dictionary transport is a relatively new feature in HTTP that allows for using custom compression dictionaries to improve the compression of HTTP responses. The results can be pretty dram… [+10315 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "sixcolors.com"
+          },
+          "author": "Jason Snell",
+          "title": "Our 2024 favorites: Apps and games",
+          "description": "Runestone on Vision Pro, framed by Shareshot. Tailscale One of my persistent quests over the years has been making it easy to access all my devices no matter where I am. I’ve played with everything…",
+          "url": "https://sixcolors.com/post/2024/12/our-2024-favorites-apps-and-games/",
+          "urlToImage": "https://149426355.v2.pressablecdn.com/wp-content/uploads/2024/12/visionprorunestone.jpg",
+          "publishedAt": "2024-12-23T19:30:46Z",
+          "content": "Runestone on Vision Pro, framed by Shareshot.\r\nTailscale\r\nOne of my persistent quests over the years has been making it easy to access all my devices no matter where I am. Ive played with everything … [+7746 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Smashingmagazine.com"
+          },
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "title": "Tight Mode: Why Browsers Produce Different Performance Results",
+          "description": "We know that browsers do all sorts of different things under the hood. One of those things is the way they not only *fetch* resources like images and scripts from the server but how they [prioritize those resources](https://www.debugbear.com/blog/request-prio…",
+          "url": "https://www.smashingmagazine.com/2025/01/tight-mode-why-browsers-produce-different-performance-results/",
+          "urlToImage": "https://files.smashing.media/articles/tight-mode-why-browsers-produce-different-performance-results/tight-mode-why-browsers-produce-different-performance-results.jpg",
+          "publishedAt": "2025-01-09T13:00:00Z",
+          "content": "I was chatting with DebugBears Matt Zeunert and, in the process, he casually mentioned this thing called Tight Mode when describing how browsers fetch and prioritize resources. I wanted to nod along … [+11627 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Eater"
+          },
+          "author": "Eater Staff",
+          "title": "The 2024 Food and Dining Trends That Delighted Eater Editors",
+          "description": "The best food trends of the year included cookbook clubs, conchas, and nonalcoholic cocktails.",
+          "url": "https://www.eater.com/24323499/best-food-dining-trends-2024-cookbook-clubs-nostalgic-restaurants-conchas",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/w_RwFrJBbdSQMg-O0dhr-5TIl0M=/0x129:1800x1071/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25794509/24.12_Best_Food_Trends.png",
+          "publishedAt": "2024-12-17T19:50:13Z",
+          "content": "Lille Allen\r\n\n \n\n The best food trends of the year included cookbook clubs, conchas, and nonalcoholic cocktails To say it’s been a tumultuous year for many of us is perhaps an understatement. But whe… [+6094 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "2ality.com"
+          },
+          "author": null,
+          "title": "A checklist for your tsconfig.json",
+          "description": "In order to feel more confident about my tsconfig.json, I decided to go through the tsconfig.json documentation, collect the most important options and describe them below:\n<ul>\n<li>You can come along for the whole ride.</li>\n<li>Or you can skip ahead to the …",
+          "url": "https://2ality.com/2025/01/tsconfig-json.html",
+          "urlToImage": null,
+          "publishedAt": "2025-01-15T00:00:00Z",
+          "content": "Version: TypeScript 5.7\r\nIn order to feel more confident about my tsconfig.json, I decided to go through the tsconfig.json documentation, collect the most important options and describe them below:\r\n… [+24639 chars]"
+        },
+        {
+          "source": {
+            "id": "newsweek",
+            "name": "Newsweek"
+          },
+          "author": "Ryan Chan",
+          "title": "Map Shows US and Chinese Aircraft Carriers in Pacific This Week",
+          "description": "An American aircraft carrier, USS Carl Vinson, is now underway in the South China Sea.",
+          "url": "https://www.newsweek.com/pacific-map-us-china-news-aircraft-carriers-december-27-2024-2006576",
+          "urlToImage": "https://d.newsweek.com/en/full/2552107/pacific-map-shows-us-china-aircraft-carriers.jpg",
+          "publishedAt": "2024-12-27T16:31:28Z",
+          "content": "A United States aircraft carrier reached the South China Sea this week, following a westward transit via the Philippines, while all Chinese \"flattops\" remained pierside.\r\nThis came as China launched … [+4584 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Gutenbergtimes.com"
+          },
+          "author": "Birgit Pauli-Haack",
+          "title": "Gutenberg Times: State of the Word, Gutenberg 19.9 and 20.0, Block editor for books, Studio Sync – Weekend Edition #315",
+          "description": "Happy New Year!   \n\n\n\nI hope you had some wonderful time with your family or friends over the holidays, and you started re-energized and excited into 2025. \n\n\n\nAt Gutenberg Times, we, that’s you and me, are now celebrating our seventh anniversary! Alt…",
+          "url": "https://gutenbergtimes.com/state-of-the-word-gutenberg-19-9-and-20-0-block-editor-for-books-studio-sync-weekend-edition-315/",
+          "urlToImage": "https://150387569.v2.pressablecdn.com/wp-content/uploads/2025/01/LastSupper-in-blocks-web.jpg",
+          "publishedAt": "2025-01-11T11:45:30Z",
+          "content": "Happy New Year! \r\nI hope you had some wonderful time with your family or friends over the holidays, and you started re-energized and excited into 2025. \r\nAt Gutenberg Times, we, that’s you and me, ar… [+10530 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Brettterpstra.com"
+          },
+          "author": "503440548",
+          "title": "Brett's Favorites 2024: Personal Projects",
+          "description": "Not my busiest year on record, but I did a lot.",
+          "url": "https://brettterpstra.com/2024/12/31/bretts-favorites-2024-personal-projects/",
+          "urlToImage": "https://cdn3.brettterpstra.com/uploads/2024/12/bretts-favorites-2024-rb_fb.jpg",
+          "publishedAt": "2024-12-31T14:00:00Z",
+          "content": "Personal Projects:\n\nNot my busiest year on record, but I did a lot.\n\n\n\n\n Updated: Generate slick changelogs from Git commits\r\n\n I do all of my release notes using careful git commit messages. It make… [+6582 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Plos.org"
+          },
+          "author": "Anna Novotna, Klara Horackova, Jana Soukupova, Petra Zemankova, Petr Nehasil, Pavel Just, Ludek Voska, Petra Kleiblova, Silvie Rajnochova Bloudickova",
+          "title": "A retrospective single-center pilot study of the genetic background of the transplanted kidney",
+          "description": "Introduction Renal cell carcinoma (RCC) is one of the most prevalent cancers in kidney transplant recipients (KTR). The hereditary background of RCC in native kidneys has been determined, implicating its clinical importance.   Materials and methods This retro…",
+          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316192",
+          "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316192.g001&size=inline",
+          "publishedAt": "2025-01-08T14:00:00Z",
+          "content": "Citation: Novotna A, Horackova K, Soukupova J, Zemankova P, Nehasil P, Just P, et al. (2025) A retrospective single-center pilot study of the genetic background of the transplanted kidney. PLoS ONE 2… [+24585 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Gnome.org"
+          },
+          "author": null,
+          "title": "This Week in GNOME: #183 Updated Flatpak",
+          "description": "Update on what happened across the GNOME project in the week from January 10 to January 17.\n\n\r\nFlatpak \r\n\nGeorges Stavracas (feaneron) reports\n\n\n\n\r\n\nLast week, the Flatpak 1.16.0 was released. It’s the first stable release in years! A lot has happened in the …",
+          "url": "https://thisweek.gnome.org/posts/2025/01/twig-183/",
+          "urlToImage": "https://thisweek.gnome.org/images/og-image.png",
+          "publishedAt": "2025-01-17T00:00:00Z",
+          "content": "#183 Updated Flatpak\r\nJanuary 17, 2025\r\nCurated by\r\n Felix\r\nUpdate on what happened across the GNOME project in the week from January 10 to January 17.\r\nFlatpak \r\nGeorges Stavracas (feaneron) reports… [+7109 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "sixcolors.com"
+          },
+          "author": "Six Colors Staff",
+          "title": "Our 2024 favorites: TV, books, movies, and podcasts",
+          "description": "Vince Vaughn in “Bad Monkey” (Apple TV+)\nTV\nBad Monkey\nA surprise hit, this Vince Vaughn vehicle on Apple TV+ is based on a Carl Hiaasen novel of the same name, following Florida cop Andrew Yancey—suspended from duty for…reasons—as he gets embroiled in a fish…",
+          "url": "https://sixcolors.com/post/2024/12/our-2024-favorites-tv-books-movies-and-podcasts/",
+          "urlToImage": "https://149426355.v2.pressablecdn.com/wp-content/uploads/2024/12/bad_monkey_photo_010210-6c.jpg",
+          "publishedAt": "2024-12-30T23:44:14Z",
+          "content": "Vince Vaughn in Bad Monkey (Apple TV+)\r\nTV\r\nBad Monkey\r\nA surprise hit, this Vince Vaughn vehicle on Apple TV+ is based on a Carl Hiaasen novel of the same name, following Florida cop Andrew Yanceysu… [+13157 chars]"
+        },
+        {
+          "source": {
+            "id": "newsweek",
+            "name": "Newsweek"
+          },
+          "author": "Ryan Chan",
+          "title": "Map Shows US and Chinese Aircraft Carriers in Pacific This Week",
+          "description": "China sent all of its operational aircraft carriers to sea, while a U.S. \"flattop\" remained in the Philippine Sea.",
+          "url": "https://www.newsweek.com/pacific-map-us-china-news-aircraft-carriers-december-20-2024-2004124",
+          "urlToImage": "https://d.newsweek.com/en/full/2548768/pacific-map-shows-us-china-aircraft-carriers.jpg",
+          "publishedAt": "2024-12-20T16:38:14Z",
+          "content": "China sent all of its operational aircraft carriers to sea this week, while a United States \"flattop\" remained in the Philippine Sea, a marginal sea in the Western Pacific Ocean.\r\nThis came as the Pe… [+7095 chars]"
+        },
+        {
+          "source": {
+            "id": "newsweek",
+            "name": "Newsweek"
+          },
+          "author": "Ryan Chan",
+          "title": "Map Shows US and Chinese Aircraft Carriers in Pacific This Week",
+          "description": "An American aircraft carrier returned to the South China Sea, while a Chinese \"flattop\" conducted another sea trial.",
+          "url": "https://www.newsweek.com/pacific-map-us-china-news-aircraft-carriers-january-3-2025-2009031",
+          "urlToImage": "https://d.newsweek.com/en/full/2555513/indo-pacific-map-shows-us-china-aircraft-carriers.jpg",
+          "publishedAt": "2025-01-03T08:30:09Z",
+          "content": "A United States aircraft carrier returned to the South China Sea this week, following a five-day visit to Malaysia, while a Chinese \"flattop\" conducted a new round of sea trials.\r\nMeanwhile, an aircr… [+6290 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "[Removed]"
+          },
+          "author": null,
+          "title": "[Removed]",
+          "description": "[Removed]",
+          "url": "https://removed.com",
+          "urlToImage": null,
+          "publishedAt": "2025-01-11T06:00:00Z",
+          "content": "[Removed]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Esri.com"
+          },
+          "author": "Kristian Ekenes",
+          "title": "Good, better, best—Simplify your web app development with Map Viewer",
+          "description": "There are many good ways to build an app. Others are better. In ArcGIS, starting with a web map built in Map Viewer is always best.",
+          "url": "https://www.esri.com/arcgis-blog/products/js-api-arcgis/developers/good-better-best-simplify-your-web-app-development-with-map-viewer/",
+          "urlToImage": null,
+          "publishedAt": "2024-12-19T20:15:00Z",
+          "content": "When it comes to web app development, there are often many good ways to build an app. Others are better. In ArcGIS, starting with a web map built in Map Viewer is always best.\r\nThe ArcGIS Maps SDK fo… [+12548 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "InfoQ.com"
+          },
+          "author": "Alex Shopov",
+          "title": "Presentation: Remixing the CarGurus Front-end Experience",
+          "description": "Alex Shopov discusses how CarGurus decided which framework would best support the needs of their front-end development teams and evolving application ecosystem. By Alex Shopov",
+          "url": "https://www.infoq.com/presentations/cargurus-front-end/",
+          "urlToImage": "https://res.infoq.com/presentations/cargurus-front-end/en/mediumimage/AlexShopov-medium-1730445775780.jpeg",
+          "publishedAt": "2024-12-25T10:18:00Z",
+          "content": "Transcript\r\nShopov: My name is Alex Shopov. I'm a principal software development engineer here at CarGurus, a local company. I've been with the company for about four years as a principal software de… [+45277 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Christopherspenn.com"
+          },
+          "author": "Christopher S Penn",
+          "title": "AI Use Case Walkthrough: Building Marketing Software Part 4: Building the App",
+          "description": "In today’s episode, you’ll witness the crucial step of transforming your AI-generated code into a functional application. You’ll learn how to guide the AI through a structured process of writing and refining code, using the project map and best practices you …",
+          "url": "https://www.christopherspenn.com/2025/01/ai-use-case-walkthrough-building-marketing-software-part-4-building-the-app/",
+          "urlToImage": "https://www.christopherspenn.com/wp-content/uploads/2025/01/AI-Use-Case-Walkthrough-Building-Marketing-Software-Part-4.png",
+          "publishedAt": "2025-01-16T10:52:04Z",
+          "content": "In today’s episode, you’ll witness the crucial step of transforming your AI-generated code into a functional application. You’ll learn how to guide the AI through a structured process of writing and … [+16687 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Benfrain.com"
+          },
+          "author": "Ben Frain",
+          "title": "A single element CSS donut timer/countdown timer, that can sit on any background",
+          "description": "During last year, I championed how you can use rounded gradient borders with any background. This approach has solved a great many UI challenges for me. Today, I want to document how it can solve another. What if you want a countdown ‘donut timer’, the sort o…",
+          "url": "https://benfrain.com/a-single-element-css-donut-timer-countdown-timer-that-can-sit-on-any-background/",
+          "urlToImage": null,
+          "publishedAt": "2025-01-07T16:08:47Z",
+          "content": "During last year, I championed how you can use rounded gradient borders with any background. This approach has solved a great many UI challenges for me. Today, I want to document how it can solve ano… [+4462 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Bangkok Post"
+          },
+          "author": "AFP",
+          "title": "Blasts in Kyiv as UK's Starmer inks 'landmark' 100-year accord",
+          "description": "<p>KYIV (UKRAINE) - British Prime Minister Keir Starmer signed a \"landmark\" 100-year partnership agreement with Ukraine on Thursday during an unannounced visit to the war-torn country, seeking to shore up support for Kyiv before Donald Trump returns to the Wh…",
+          "url": "https://www.bangkokpost.com/world/2941297/blasts-in-kyiv-as-uks-starmer-inks-landmark-100-year-accord",
+          "urlToImage": "https://static.bangkokpost.com/media/content/20250117/c1_5428632_700.jpg",
+          "publishedAt": "2025-01-16T19:45:00Z",
+          "content": "KYIV (UKRAINE) - British Prime Minister Keir Starmer signed a \"landmark\" 100-year partnership agreement with Ukraine on Thursday during an unannounced visit to the war-torn country, seeking to shore … [+4447 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Quansight.org"
+          },
+          "author": null,
+          "title": "Quansight Labs Blog: LAPACK in your web browser: high-performance linear algebra with stdlib",
+          "description": "Implementing LAPACK routines for numerical computation in web applications",
+          "url": "https://labs.quansight.org/blog/lapack-in-stdlib",
+          "urlToImage": "https://labs-p8xrgbgx4-quansight.vercel.app/posts/lapack-in-stdlib/featured.png",
+          "publishedAt": "2024-12-19T19:41:42Z",
+          "content": "Web applications are rapidly emerging as a new frontier for high-performance scientific computation and AI-enabled end-user experiences. Underpinning the ML/AI revolution is linear algebra, a branch … [+52939 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Frostyx.cz"
+          },
+          "author": "frostyx",
+          "title": "Jakub Kadlčík: Shoving a chess engine up your butt",
+          "description": "In the Lex Fridman Podcast episode #327, Levy Rozman (aka\nGothamChess) explained a scandal, alleging a chess grandmaster\nHans Niemann of cheating at a tournament. Supposedly, it was done through a\nremotely controlled device inserted into his backside, allowin…",
+          "url": "http://frostyx.cz/posts/shoving-a-chess-engine-up-your-butt",
+          "urlToImage": "http://frostyx.cz/files/img/frostyx-200-200.png",
+          "publishedAt": "2024-12-29T00:00:00Z",
+          "content": "In the Lex Fridman Podcast episode #327, Levy Rozman (aka\r\nGothamChess) explained a scandal, alleging a chess grandmaster\r\nHans Niemann of cheating at a tournament. Supposedly, it was done through a\r… [+11913 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Dzone.com"
+          },
+          "author": "Anujkumarsinh Donvir",
+          "title": "Mastering SSR and CSR in Next.js: Building High-Performance Data Visualizations",
+          "description": "Modern web and mobile applications require showing information from large and changing datasets in an actionable manner to end users. As an example, for a trading application, it is of paramount importance to show changing stock prices for several stocks in a…",
+          "url": "https://dzone.com/articles/mastering-ssr-and-csr-in-nextjs",
+          "urlToImage": "https://dz2cdn1.dzone.com/storage/article-thumb/18150050-thumb.jpg",
+          "publishedAt": "2025-01-13T17:00:00Z",
+          "content": "Modern web and mobile applications require showing information from large and changing datasets in an actionable manner to end users. As an example, for a trading application, it is of paramount impo… [+21626 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "SitePoint"
+          },
+          "author": "Ahmed Bouchefra",
+          "title": "Bootstrap Card Component: a Complete Introduction",
+          "description": "Master Bootstrap card height, width, and resizing with our complete guide. Create responsive designs effortlessly for your web projects.\n \n Continue reading\n Bootstrap Card Component: a Complete Introduction\n on SitePoint.",
+          "url": "https://www.sitepoint.com/bootstrap-card-component-introduction/",
+          "urlToImage": "https://uploads.sitepoint.com/wp-content/uploads/2018/02/1519001106bootstrap-card-component.jpg",
+          "publishedAt": "2025-01-03T04:03:50Z",
+          "content": "Bootstrap cards are an essential tool for organizing and presenting content in web projects. They provide a simple yet versatile way to create visually appealing layouts that adjust seamlessly to dif… [+34620 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Speedcurve.com"
+          },
+          "author": "Tammy Everts",
+          "title": "Our 10 most popular web performance articles of 2024",
+          "description": "We love writing articles and blog posts that help folks solve real web performance and UX problems. Here are the ones you loved most in 2024. (The number one item may surprise you!)\n\nSome of these articles come from our recently published Web Performance Guid…",
+          "url": "https://www.speedcurve.com/blog/popular-web-performance-posts-2024/",
+          "urlToImage": "https://blog-img.speedcurve.com/social/530/herman-bench-social.gif?auto=format,compress&fit=crop&ar=2:1&w=1200",
+          "publishedAt": "2024-12-18T03:00:00Z",
+          "content": "We love writing articles and blog posts that help folks solve real web performance and UX problems. Here are the ones you loved most in 2024. (The number one item may surprise you!)\r\nSome of these ar… [+4248 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "SitePoint"
+          },
+          "author": "Daniel Diaz",
+          "title": "How to Send Email with Django Using SMTP Server",
+          "description": "Do you need to send emails through your own Django app? Learn how to configure Django SMTP, set up passwords, send emails, and more.\n \n Continue reading\n How to Send Email with Django Using SMTP Server\n on SitePoint.",
+          "url": "https://www.sitepoint.com/django-send-email/",
+          "urlToImage": "https://uploads.sitepoint.com/wp-content/uploads/2021/08/1628000512email.jpg",
+          "publishedAt": "2024-12-31T20:11:36Z",
+          "content": "Have you ever struggled with setting up email integration in your Django projects? Whether its configuring SMTP settings, handling security concerns, or automating contact forms, email functionality … [+32749 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Perfplanet.com"
+          },
+          "author": "Martin MichÃ¡lek",
+          "title": "Don’t Let Your Redesign Ruin Performance: A Case Study",
+          "description": "It’s a shame that so many redesigns end up slowing down the site or dropping conversions. How to prevent this? In this text, based on one of our successful projects, you will get a framework for web redesign management. We are a small team of web performance …",
+          "url": "https://calendar.perfplanet.com/2024/dont-let-your-redesign-ruin-performance-a-case-study/",
+          "urlToImage": "https://calendar.perfplanet.com/images/2024/mmartin/i6.png",
+          "publishedAt": "2024-12-26T19:20:27Z",
+          "content": "It’s a shame that so many redesigns end up slowing down the site or dropping conversions. How to prevent this? In this text, based on one of our successful projects, you will get a framework for web … [+9755 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "The Star Online"
+          },
+          "author": "MARTIN CARVALHO, GERARD GIMINO, JUNAID IBRAHIM, LYDIA NATHAN",
+          "title": "JS-SEZ will easily rival Klang Valley within next decade, says Rafizi",
+          "description": "KUALA LUMPUR: The Johor-Singapore Special Economic Zone (JS-SEZ) will easily rival the Klang Valley in terms of economic contributions for the nation within the next decade, says Rafizi Ramli.  Read full story",
+          "url": "https://www.thestar.com.my/news/nation/2025/01/09/js-sez-will-easily-rival-klang-valley-within-next-decade-says-rafizi",
+          "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/01/09/3108683.JPG",
+          "publishedAt": "2025-01-09T06:07:00Z",
+          "content": "KUALA LUMPUR: The Johor-Singapore Special Economic Zone (JS-SEZ) will easily rival the Klang Valley in terms of economic contributions for the nation within the next decade, says Rafizi Ramli (pic). … [+1281 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Elegantthemes.com"
+          },
+          "author": "Nick Roach",
+          "title": "The Divi 5 Feature Swap (Plus 200+ Fixes/Improvements)",
+          "description": "Welcome back to our monthly Divi 5 progress report. We made significant progress, releasing three updates to Divi 5, fixing 237 bugs, and stabilizing the Public Alpha. New bug reports have slowed to a trickle, and this would be a good time to consider using D…",
+          "url": "https://www.elegantthemes.com/blog/general-news/announcing-the-divi-5-feature-swap",
+          "urlToImage": "https://www.elegantthemes.com/blog/wp-content/uploads/2025/01/featured-image.png",
+          "publishedAt": "2025-01-08T01:00:00Z",
+          "content": "Welcome back to our monthly Divi 5 progress report.\r\nWe made significant progress, releasing three updates to Divi 5, fixing 237 bugs, and stabilizing the Public Alpha. New bug reports have slowed to… [+28290 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Perfplanet.com"
+          },
+          "author": null,
+          "title": "Designing websites for bad performance",
+          "description": "There was once a farmer who wanted his chickens to lay more eggs. His friend, a physicist, said - \"I  can give you a solution for your problem if you have a spherical chicken kept in vacuum\" Looking at performance problems in the real world often reminds me o…",
+          "url": "https://calendar.perfplanet.com/2024/designing-websites-for-bad-performance/",
+          "urlToImage": "https://calendar.perfplanet.com/images/2024/kk/4.png",
+          "publishedAt": "2024-12-31T11:50:00Z",
+          "content": "There was once a farmer who wanted his chickens to lay more eggs. His friend, a physicist, said – “I can give you a solution for your problem if you have a spherical chicken kept in vacuum” Looking a… [+6733 chars]"
+        },
+        {
+          "source": {
+            "id": "financial-post",
+            "name": "Financial Post"
+          },
+          "author": "The Associated Press",
+          "title": "J&J buys Intra-Cellular in $14.6 billion deal, delving further into central nervous system disorders",
+          "description": "Johnson & Johnson will spend more than $14 billion to delve further into the treatment of central nervous system disorders by purchasing Intra-Cellular Therapies. The health care giant said Monday that it will pay $132 in cash for each share of Intra-Cellular…",
+          "url": "https://financialpost.com/pmn/jj-buys-intra-cellular-in-14-6-billion-deal-delving-further-into-central-nervous-system-disorders",
+          "urlToImage": null,
+          "publishedAt": "2025-01-13T15:33:09Z",
+          "content": "Johnson &amp; Johnson will spend more than $14 billion to delve further into the treatment of central nervous system disorders by purchasing Intra-Cellular Therapies.\r\nThe health care giant said Mond… [+1860 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Amazon.com"
+          },
+          "author": "Brian Beach",
+          "title": "The most visited Front-end Web and Mobile blog posts in 2024",
+          "description": "As we kick off 2025, I wanted to take a moment to highlight the top posts from 2024. Without further ado, here are the 10 front-end web and mobile blog posts of 2024. Fullstack TypeScript Reintroducing AWS Amplify – This blog post announces the general availa…",
+          "url": "https://aws.amazon.com/blogs/mobile/the-most-visited-front-end-web-and-mobile-blog-posts-in-2024/",
+          "urlToImage": "https://d2908q01vomqb2.cloudfront.net/0a57cb53ba59c46fc4b692527a38a87c78d84028/2024/12/31/The-most-visited-front-end-web-and-mobile-blog-posts-in-2024-1120x630.png",
+          "publishedAt": "2025-01-02T14:23:09Z",
+          "content": "As we kick off 2025, I wanted to take a moment to highlight the top posts from 2024. Without further ado, here are the 10 front-end web and mobile blog posts of 2024.\r\nFullstack TypeScript Reintroduc… [+8087 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Github.io"
+          },
+          "author": "The Clojure scientific hub",
+          "title": "Clojurists Together project - Scicloj community building - November 2024 update",
+          "description": "The Clojurists Together organization has decided to sponsor Scicloj community building for Q3 2024, as a project by Daniel Slutsky. This is the second time the project has been selected this year. Here is Daniel’s last update for this period.\nThis overview of…",
+          "url": "https://scicloj.github.io/blog/clojurists-together-project-scicloj-community-building-november-2024-update/",
+          "urlToImage": "https://scicloj.github.io/blog/clojurists-together-project-scicloj-community-building-november-2024-update/../../sci-cloj-logo-transparent.png",
+          "publishedAt": "2024-12-18T00:00:00Z",
+          "content": "Clojurists Together project - Scicloj community building - November 2024 update\r\nPosted December 18, 2024 by daslu &amp;dash; 6 min read\r\nThe Clojurists Together organization has decided to sponsor S… [+7372 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "BBC News"
+          },
+          "author": null,
+          "title": "Britain's first supermarket petrol station - when fuel cost just 15p a litre",
+          "description": "An archivist says the petrol station's electronic payment system could not keep up with demand.",
+          "url": "https://www.bbc.com/news/articles/cly47xey8gwo",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1685/live/f2f10680-c86c-11ef-94cb-5f844ceb9e30.jpg",
+          "publishedAt": "2025-01-05T05:48:18Z",
+          "content": "JS Journal, Sainsbury's staff magazine, said petrol was 68p a gallon when \"the average price of four-star in the area is 73p\"\r\nIt is 50 years since a supermarket chain opened its first petrol station… [+2630 chars]"
+        },
+        {
+          "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+          },
+          "author": "TOM MURPHY AP health writer",
+          "title": "J&J buys Intra-Cellular in $14.6B deal, delving into central nervous system disorders",
+          "description": "Johnson & Johnson will spend more than $14 billion to move deeper into treating central nervous system disorders by purchasing Intra-Cellular Therapies",
+          "url": "https://abcnews.go.com/Business/wireStory/jj-buys-intra-cellular-146-billion-deal-delving-117623254",
+          "urlToImage": "https://i.abcnewsfe.com/a/0308a944-38ef-476b-871b-20beaf7e01c4/wirestory_19160ba4559aaab40836078d12a89800_16x9.jpg?w=1600",
+          "publishedAt": "2025-01-13T15:49:07Z",
+          "content": "Johnson &amp; Johnson will spend more than $14 billion to delve further into the treatment of central nervous system disorders by purchasing Intra-Cellular Therapies.\r\nThe health care giant said Mond… [+1860 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Autostraddle.com"
+          },
+          "author": "Stef Rubino",
+          "title": "The Music I’ve Made Out To: An Ode to Queer Kissing in Public",
+          "description": "I believe in making out at the club, at the dance party, in the backseat of your car, in the corridor to the stairwell of your building, in the movie theater, at concerts, on the beach, at sports events, and at the brewery where making out isn’t really the vi…",
+          "url": "http://www.autostraddle.com/the-music-ive-made-out-to-an-ode-to-queer-kissing-in-public/",
+          "urlToImage": "https://www.autostraddle.com/wp-content/uploads/2025/01/sense-8.jpg?resize=1200,675",
+          "publishedAt": "2025-01-08T17:20:06Z",
+          "content": "I believe in making out often, as passionately as you can, and in whatever circumstances make you feel the most comfortable. I believe in kissing the people you want to kiss when you want to kiss the… [+21888 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Plos.org"
+          },
+          "author": "Eun Ji Kim, Kevin Coppa, Sara Abrahams, Amresh D. Hanchate, Sumit Mohan, Martin Lesser, Jamie S. Hirsch",
+          "title": "Utilization of transitional care management services and 30-day readmission",
+          "description": "Transitional care management (TCM) visits have been shown to reduce 30-day readmissions, but it is unclear whether the decrease arises from the TCM visit itself or from clinic-level changes to meet the requirements of the TCM visits. We conducted a cross-sect…",
+          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316892",
+          "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316892.t002&size=inline",
+          "publishedAt": "2025-01-03T14:00:00Z",
+          "content": "Abstract\r\nTransitional care management (TCM) visits have been shown to reduce 30-day readmissions, but it is unclear whether the decrease arises from the TCM visit itself or from clinic-level changes… [+27921 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "The Star Online"
+          },
+          "author": "MOHD FARHAAN SHAH",
+          "title": "Johor-S’pore special zone agreements to be signed Jan 6",
+          "description": "JOHOR BARU: The planned Johor-Singapore Special Economic Zone (JS-SEZ) is set to be realised with the agreement on the highly anticipated cooperation to be inked on Monday. Read full story",
+          "url": "https://www.thestar.com.my/news/nation/2025/01/04/johor-spore-special-zone-agreements-to-be-signed-jan-6",
+          "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/01/04/3100679.jpg",
+          "publishedAt": "2025-01-03T23:00:00Z",
+          "content": "JOHOR BARU: The planned Johor-Singapore Special Economic Zone (JS-SEZ) is set to be realised with the agreement on the highly anticipated cooperation to be inked on Monday.\r\nThe signing ceremony will… [+2470 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "DW (English)"
+          },
+          "author": "Deutsche Welle",
+          "title": "Paul Watson freed, after Denmark rejects Japan extradition request",
+          "description": "Anti-whaling activist Paul Watson has been freed after five months in a Greenland jail. Japan says he attacked one of its whaling ships in 2010, Watson called the charges \"a total fabrication.\" Denmark's Justice Ministry on Tuesday rejected a Japanese extradi…",
+          "url": "https://www.dw.com/en/paul-watson-freed-after-denmark-rejects-japan-extradition-request/a-71087930",
+          "urlToImage": "https://static.dw.com/image/71087559_6.jpg",
+          "publishedAt": "2024-12-17T18:36:00Z",
+          "content": "Denmark's Justice Ministry on Tuesday rejected a Japanese extradition request and released Canadian-American anti-whaling activist Paul Watson from a Greenland jail after a five-month detention.\r\nWat… [+3532 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Sachachua.com"
+          },
+          "author": "Sacha Chua",
+          "title": "Monthly review: November 2024",
+          "description": "2024-11-30-06 November 2024 daily #moments\r\n\n \r\n\n\n\n\nThis month, I experimented with doing my daily\ndrawings on a calendar grid. Since that meant I\nhad a nice neat one-page summary of the month\nright there, I figured I might as well resume\nwriting these monthl…",
+          "url": "https://sachachua.com/blog/2024/12/monthly-review-november-2024/",
+          "urlToImage": null,
+          "publishedAt": "2024-12-29T17:00:07Z",
+          "content": "This month, I experimented with doing my daily\r\ndrawings on a calendar grid. Since that meant I\r\nhad a nice neat one-page summary of the month\r\nright there, I figured I might as well resume\r\nwriting … [+2986 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "The Diplomat"
+          },
+          "author": "Takahashi Kosuke",
+          "title": "Japan Approves 9.4 Percent Increase in Defense Spending for FY2025",
+          "description": "For the 11th year in a row, the budget draft set a new record for national defense spending as Japan continues to pursue its Defense Buildup Program.",
+          "url": "https://thediplomat.com/2024/12/japan-approves-9-4-percent-increase-in-defense-spending-for-fy2025/",
+          "urlToImage": "https://thediplomat.com/wp-content/uploads/2024/12/sizes/td-story-s-2/thediplomat_2024-12-27-130204.jpg",
+          "publishedAt": "2024-12-27T12:58:00Z",
+          "content": "Japan keeps striving hard to expedite its defense buildup to cope with rising military threats posed by three nuclear-armed neighbors, namely China, North Korea, and Russia.\r\nOn December 27, the cabi… [+15948 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Fogus.me"
+          },
+          "author": "fogus",
+          "title": "The best things and stuff of 2024",
+          "description": "Great things and people that I discovered, learned, read, met, etc. in 2024. No particular ordering is implied. Not everything is new. also: see the lists from 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011 and 2010 Great posts |…",
+          "url": "https://blog.fogus.me/2024/12/23/the-best-things-and-stuff-of-2024/",
+          "urlToImage": null,
+          "publishedAt": "2024-12-23T14:00:58Z",
+          "content": "Dec 23, 2024 Great things and people that I discovered, learned, read, met, etc. in 2024. No particular ordering is implied. Not everything is new.\r\nalso: see the lists from 2023, 2022, 2021, 2020, 2… [+13131 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Www.qt.io"
+          },
+          "author": "lars.knoll@qt.io (Lars Knoll)",
+          "title": "Qt Quick Performance Improvements with Qt 5.12 LTS",
+          "description": "We are continuously working on improving the performance and optimizing the memory consumption of Qt. One focus area for Qt 5.12 has been to reduce the memory consumption of the QML engine and tuning the JavaScript performance.",
+          "url": "https://www.qt.io/blog/2018/11/16/qt-quick-performance-improvements-qt-5-12-lts",
+          "urlToImage": null,
+          "publishedAt": "2024-12-30T07:51:37Z",
+          "content": "We are continuously working on improving the performance and optimizing the memory consumption of Qt. One focus area for Qt 5.12 has been to reduce the memory consumption of the QML engine and tuning… [+9439 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Shagunagrawal.me"
+          },
+          "author": "Shagun Agrawal",
+          "title": "Multiplayer Board Game with Clojure and HTMX",
+          "description": "Making a multiplayer board game using Clojure and HTMX. Setting Clojure for REPL driven development, deploying to Fly.io.",
+          "url": "https://shagunagrawal.me/posts/multiplayer-board-game-in-clojure/",
+          "urlToImage": null,
+          "publishedAt": "2025-01-16T00:00:00Z",
+          "content": "This posts walks through building a multiplayer board game using Clojure and HTMX.\r\nLive app link: chain-reaction-app.fly.dev. ( The first page load could take around a minute to load. )\r\nThe game is… [+18837 chars]"
+        },
+        {
+          "source": {
+            "id": "the-jerusalem-post",
+            "name": "The Jerusalem Post"
+          },
+          "author": "BY BARRY DAVIS",
+          "title": "A light unto us all: A guide to Hannukah activities in and around Jerusalem",
+          "description": "Over the Hanukkah break, the capital will be full of good cheer and an abundance of cultural and entertaining offerings to keep Jerusalemites and out-of-towners of all ages engaged and entertained.",
+          "url": "https://www.jpost.com/j-spot/article-834172",
+          "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/640008",
+          "publishedAt": "2024-12-22T11:33:29Z",
+          "content": "Over the Hanukkah break, the capital will be awash with Festival of Light good cheer, and an abundance of cultural and entertaining offerings to keep Jerusalemites and out-of-towners of all ages enga… [+9654 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Plos.org"
+          },
+          "author": "Katsuhiko Hayashi, Mizuki Sano, Toshie Kanayasu-Toyoda, Yuji Morita, Teruhide Yamaguchi, Kenji Ohya, Yutaka Kikuchi, Ken-ichi Izutsu, Yukiko Hara-Kudo",
+          "title": "Evaluation of the effect of cell freshness on pyrogen detection using a serum-free monocyte-activation test",
+          "description": "Pyrogens cause shock symptoms when released into the bloodstream. They are classified into two main categories: endotoxins (lipopolysaccharides [LPS]) and non-endotoxin pyrogens. The monocyte activation test (MAT) is an in vitro assay to detect pyrogens in hu…",
+          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316203",
+          "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316203.g005&size=inline",
+          "publishedAt": "2024-12-30T14:00:00Z",
+          "content": "Abstract\r\nPyrogens cause shock symptoms when released into the bloodstream. They are classified into two main categories: endotoxins (lipopolysaccharides [LPS]) and non-endotoxin pyrogens. The monocy… [+39536 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Plos.org"
+          },
+          "author": "Jin-Sun Park, Kyoung-Woo Seo, Jung Eun Lee, Kyoung-Hwa Kim, Jeong-Ah Ahn",
+          "title": "Communication needs regarding heart failure trajectory and palliative care between patients and healthcare providers: A cross-sectional study",
+          "description": "Introduction Heart failure (HF) is a chronic condition with an unpredictable trajectory, making effective communication between patients and healthcare providers crucial for optimizing outcomes. This study aims to investigate and compare the communication nee…",
+          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317417",
+          "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0317417.g001&size=inline",
+          "publishedAt": "2025-01-13T14:00:00Z",
+          "content": "Abstract\r\nIntroduction\r\nHeart failure (HF) is a chronic condition with an unpredictable trajectory, making effective communication between patients and healthcare providers crucial for optimizing out… [+38228 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Plos.org"
+          },
+          "author": "Bushra Haque, David Cheerie, Amy Pan, Meredith Curtis, Thomas Nalpathamkalam, Jimmy Nguyen, Celine Salhab, Bhooma Thiruvahindrapuram, Jade Zhang, Madeline Couse, Taila Hartley, Michelle M. Morrow, E Magda Price, Susan Walker, David Malkin, Frederick P. Roth, Gregory Costain",
+          "title": "Leveraging cancer mutation data to inform the pathogenicity classification of germline missense variants",
+          "description": "Author summary Our study introduces an approach to improve the interpretation of rare genetic variation, specifically missense variants that can alter proteins and cause disease. We found that published evidence from somatic cancer sequencing studies may be r…",
+          "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011540",
+          "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1011540.g004&size=inline",
+          "publishedAt": "2025-01-06T14:00:00Z",
+          "content": "Abstract\r\nInnovative and easy-to-implement strategies are needed to improve the pathogenicity assessment of rare germline missense variants. Somatic cancer driver mutations identified through large-s… [+68310 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Plos.org"
+          },
+          "author": "Guillem Murciano-Julià, Marina Francos-Cárdenas, Clàudia Salat-Canela, Elena Hidalgo, José Ayté",
+          "title": "FLCCR is a fluorescent reporter system that quantifies the duration of different cell cycle phases at the single-cell level in fission yeast",
+          "description": "Current methods to study cell cycle progression in yeast overlook variations in cell size across different strains. This study develops an imaging reporter system called FLCCR that can quantify the duration of each cell cycle phase in single cells and allows …",
+          "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002969",
+          "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3002969.g005&size=inline",
+          "publishedAt": "2025-01-07T14:00:00Z",
+          "content": "Abstract\r\nFission yeast is an excellent model system that has been widely used to study the mechanism that control cell cycle progression. However, there is a lack of tools that allow to measure with… [+54816 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Perfplanet.com"
+          },
+          "author": null,
+          "title": "What is an AnimationFrame and what can it tell you?",
+          "description": "Modern web applications need to be responsive and smooth, providing users with immediate feedback for their interactions. To understand how our applications perform, we need to understand how browsers process and render content. This is why we now have animat…",
+          "url": "https://calendar.perfplanet.com/2024/what-is-an-animationframe-and-what-can-it-tell-you/",
+          "urlToImage": "https://calendar.perfplanet.com/images/2024/v/animation-frame-and-stages.jpg",
+          "publishedAt": "2024-12-23T11:49:00Z",
+          "content": "Modern web applications need to be responsive and smooth, providing users with immediate feedback for their interactions. To understand how our applications perform, we need to understand how browser… [+9175 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Plos.org"
+          },
+          "author": "Søren Egstrand, Maria Lerche Mace, Marya Morevati, Lars Henning Engelholm, Jesper Skovhus Thomsen, Annemarie Brüel, Klaus Olgaard, Ewa Lewin",
+          "title": "Chronotherapy with Cinacalcet has a striking effect on inhibition of parathyroid gland proliferation in rats with secondary hyperparathyroidism",
+          "description": "Secondary hyperparathyroidism (sHPT) is a significant clinical complication of CKD leading to bone abnormalities and cardiovascular disease. Current treatment based on activating the parathyroid calcium-sensing receptor (CaSR) using calcimimetics such as Cina…",
+          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316675",
+          "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316675.g007&size=inline",
+          "publishedAt": "2025-01-06T14:00:00Z",
+          "content": "Citation: Egstrand S, Mace ML, Morevati M, Engelholm LH, Thomsen JS, Brüel A, et al. (2025) Chronotherapy with Cinacalcet has a striking effect on inhibition of parathyroid gland proliferation in rat… [+43291 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Plos.org"
+          },
+          "author": "Pirunthan Perampalam, James I. McDonald, Frederick A. Dick",
+          "title": "GO-CRISPR: A highly controlled workflow to discover gene essentiality in loss-of-function screens",
+          "description": "Genome-wide CRISPR screens are an effective discovery tool for genes that underlie diverse cellular mechanisms that can be scored through cell fitness. Loss-of-function screens are particularly challenging compared to gain-of-function because of the limited d…",
+          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315923",
+          "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0315923.g003&size=inline",
+          "publishedAt": "2024-12-18T14:00:00Z",
+          "content": "Abstract\r\nGenome-wide CRISPR screens are an effective discovery tool for genes that underlie diverse cellular mechanisms that can be scored through cell fitness. Loss-of-function screens are particul… [+52396 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Card Chronicle"
+          },
+          "author": "Seedy K",
+          "title": "Coping With These Cardinals",
+          "description": "A pal once dubbed me a Not So Accidental Tourist. Our families were traveling together in Spain. In Granada we’d visited the Alhambra, and were walking back to our hotel after having dinner at a...",
+          "url": "https://www.cardchronicle.com/2025/1/12/24342204/coping-with-these-cardinals",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/tH1P6LVcyZ9Xb6ghsqPD27kNoVA=/0x14:300x171/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25828601/CCSeedyCard.jpg",
+          "publishedAt": "2025-01-12T19:50:46Z",
+          "content": "A pal once dubbed me a Not So Accidental Tourist.\r\nOur families were traveling together in Spain. In Granada wed visited the Alhambra, and were walking back to our hotel after having dinner at a rest… [+4048 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Plos.org"
+          },
+          "author": "Luca Oneto, Davide Chicco",
+          "title": "Eight quick tips for biologically and medically informed machine learning",
+          "description": "Machine learning has become a powerful tool for computational analysis in the biomedical sciences, with its effectiveness significantly enhanced by integrating domain-specific knowledge. This integration has give rise to informed machine learning, in contrast…",
+          "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012711",
+          "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1012711.g001&size=inline",
+          "publishedAt": "2025-01-09T14:00:00Z",
+          "content": "Abstract\r\nMachine learning has become a powerful tool for computational analysis in the biomedical sciences, with its effectiveness significantly enhanced by integrating domain-specific knowledge. Th… [+46426 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "The Star Online"
+          },
+          "author": "REMAR NORDIN",
+          "title": "HSR can provide optional transport mode during peak seasons",
+          "description": "JOHOR BARU: The revival of the Kuala Lumpur-Singapore High-Speed Rail (HSR) project can help overcome the issue of long travel times, says Johor South SME Association founding president Teh Kee Sin. Read full story",
+          "url": "https://www.thestar.com.my/news/nation/2025/01/09/hsr-can-provide-optional-transport-mode-during-peak-seasons",
+          "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+          "publishedAt": "2025-01-08T16:00:00Z",
+          "content": "JOHOR BARU: The revival of the Kuala Lumpur-Singapore High-Speed Rail (HSR) project can help overcome the issue of long travel times, says Johor South SME Association founding president Teh Kee Sin.\r… [+2076 chars]"
+        },
+        {
+          "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+          },
+          "author": "ET Bureau",
+          "title": "Sushi, steaks and tropical tastes: 11 new NYC dining spots you can't miss",
+          "description": "New York City's dining scene in 2025 promises to be exciting, with a mix of innovative cuisine and classic flavors. From Caribbean-inspired dishes at Kawaba by Paul Carmichael to Gregory Gourdet’s French-Haitian fusion at Maison Passerelle, the city’s restaur…",
+          "url": "https://economictimes.indiatimes.com/magazines/luxury/sushi-steaks-and-tropical-tastes-11-new-nyc-dining-spots-you-cant-miss/articleshow/116546251.cms",
+          "urlToImage": "https://img.etimg.com/thumb/msid-116546414,width-1200,height-630,imgsize-31890,overlay-etpanache/articleshow.jpg",
+          "publishedAt": "2024-12-21T18:47:34Z",
+          "content": "If youre a New York-based fan of high-end sushi, hypercreative cooking, and steak, 2024 has been a good year for you. Among this years top restaurant additions are revered sushi chef Keiji Nakazawas … [+10448 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Plos.org"
+          },
+          "author": "Nercy Virginia Rabelo Furtado, José Ferreira Saraiva, Kaio Nabas Ribeiro, Noel Santos Fernandes Neto, Jéssica Fernanda dos Santos Barroso, Cynara de Melo Rodovalho, Dario Pires Carvalho, Allan Kardec Ribeiro Galardo, José Bento Pereira Lima",
+          "title": "Efficiency of four trap types and human landing catch in the sampling of Mansonia (Diptera, Culicidae) in Porto Velho, Rondônia, Brazil",
+          "description": "Entomological surveillance plays a crucial role in designing and implementing mosquito control measures. In this context, developing more effective collection strategies is essential to accurately estimate the entomological parameters necessary for effective …",
+          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315869",
+          "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0315869.g004&size=inline",
+          "publishedAt": "2025-01-14T14:00:00Z",
+          "content": "Abstract\r\nEntomological surveillance plays a crucial role in designing and implementing mosquito control measures. In this context, developing more effective collection strategies is essential to acc… [+42132 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Plos.org"
+          },
+          "author": "Nausheen Razi, Muhammad Bilal Riaz, Ambreen Bano, Tayyab Kamran, Umar Ishtiaq, Anum Shafiq",
+          "title": "Applying fractional calculus to malware spread: A fractal-based approach to threat analysis",
+          "description": "Malware is a common word in modern era. Everyone using computer is aware of it. Some users have to face the problem known as Cyber crimes. Nobody can survive without use of modern technologies based on computer networking. To avoid threat of malware, differen…",
+          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313914",
+          "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0313914.g014&size=inline",
+          "publishedAt": "2025-01-08T14:00:00Z",
+          "content": "Abstract\r\nMalware is a common word in modern era. Everyone using computer is aware of it. Some users have to face the problem known as Cyber crimes. Nobody can survive without use of modern technolog… [+37854 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "The Star Online"
+          },
+          "author": "YEE XIANG YUN",
+          "title": "Special economic zone set to elevate Johor",
+          "description": "JOHOR BARU: The Johor-Singapore Special Economic Zone (JS-SEZ) will bring a positive transformation to the state, says Mentri Besar Datuk Onn Hafiz Ghazi. Read full story",
+          "url": "https://www.thestar.com.my/news/nation/2025/01/08/special-economic-zone-set-to-elevate-johor",
+          "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/01/08/3106390.jpg",
+          "publishedAt": "2025-01-07T23:00:00Z",
+          "content": "JOHOR BARU: The Johor-Singapore Special Economic Zone (JS-SEZ) will bring a positive transformation to the state, says Mentri Besar Datuk Onn Hafiz Ghazi.\r\nNot only will the zone bring more economic … [+2347 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Plos.org"
+          },
+          "author": "Wenlong Kuang, Jianwu Huang, Yulu Yang, Yuhua Liao, Zihua Zhou, Qian Liu, Hailang Wu",
+          "title": "Identification of markers correlating with mitochondrial function in myocardial infarction by bioinformatics",
+          "description": "Background Myocardial infarction (MI), one of the most serious cardiovascular diseases, is also affected by altered mitochondrial metabolism and immune status, but their crosstalk is poorly understood. In this paper, we use bioinformatics to explore key targe…",
+          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316463",
+          "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316463.g007&size=inline",
+          "publishedAt": "2024-12-30T14:00:00Z",
+          "content": "Abstract\r\nBackground\r\nMyocardial infarction (MI), one of the most serious cardiovascular diseases, is also affected by altered mitochondrial metabolism and immune status, but their crosstalk is poorl… [+56748 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Securityaffairs.com"
+          },
+          "author": "Pierluigi Paganini",
+          "title": "Raccoon Infostealer operator sentenced to 60 months in prison",
+          "description": "Raccoon Infostealer operator Mark Sokolovsky was sentenced to 60 months in US prison and ordered to pay over $910,000 in restitution. The US Department of Justice sentenced the Ukrainian national Mark Sokolovsky (28) for his role in the distribution of the Ra…",
+          "url": "https://securityaffairs.com/172163/cyber-crime/raccoon-infostealer-operator-sentenced-to-60-months-prison.html",
+          "urlToImage": "https://securityaffairs.com/wp-content/uploads/2019/10/Raccoon-info-stealer-2.png",
+          "publishedAt": "2024-12-20T08:41:28Z",
+          "content": "Raccoon Infostealer operator sentenced to 60 months in prison\r\n | Mirai botnet targets SSR devices, Juniper Networks warns\r\n | Fortinet warns about Critical flaw in Wireless LAN Manager FortiWLM\r\n | … [+124923 chars]"
+        }
+      ]
+    }
+}
+
